@@ -1,0 +1,23 @@
+﻿@page
+@model LockoutModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Locked</title>
+</head>
+<body>
+
+    <div class="lockout-container">
+        <div class="icon">🔒</div>
+        <h1>Account Locked</h1>
+        <p>Your account has been locked due to multiple unsuccessful login attempts. Please try again later.</p>
+        <a asp-page="./login" class="button">Go to Login</a>
+    </div>
+
+</body>
+</html>
+
+<link href="~/css/lockut.css" rel="stylesheet" />
+

@@ -1,0 +1,72 @@
+﻿@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+@model ReportRentalsVM
+@{
+    ViewData["Title"] = "Reports";
+}
+<form method="post" asp-controller="Reports">
+    <div class="card mb-7">
+        @if (Model != null && Model.rentals.Count() > 0)
+        {
+            <div class="card-header">
+                <div class="card-title">
+                    <img src="/mecatronic/img/bar-chart1.png" style="width: 20px;position: relative;left: -5px;">
+                    <h3>Delay In Rentals</h3>
+                </div>
+            </div>
+
+            <div class="card mb-7">
+                <!--begin::Card body-->
+                <div class="card-body">
+                    <div style="padding-left: 886px;">
+                        <div style="width: 170px;">
+                            <button type="submit" asp-action="DelayExcelReport" class="btn btn-light-success"><i class="bi bi-file-earmark-spreadsheet fs-6"></i>Export to Excel</button>
+                        </div>
+                        <div style=" width: 154px;">
+                            <button type="submit" asp-action="DelayPDFReport" class="btn btn-light-danger" style="position: relative;left: -166px;top: -42px;"><i class="bi bi-filetype-pdf fs-6"></i>Export to PDF</button>
+                        </div>
+                    </div>
+                    <table class="table">
+                        <thead class="table-light fw-bold">
+                            <tr>
+                                <th style="padding-left:4px;width: 125px">Subscrier ID</th>
+                                <th>Subscrier Name</th>
+                                <th>Subscrier Phone</th>
+                                <th>Book Title</th>
+                                <th>End Date</th>
+                                <th>Return Date</th>
+                                <th>Delay In Rentals</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                var Idx = 0;
+                            }
+                            @foreach (var rental in Model.rentals)
+                            {
+                                <tr>
+                                    <td>@rental.Subscriper!.Id</td>
+                                    <td>@rental.Subscriper.FName @rental.Subscriper.LName</td>
+                                    <td>@rental.Subscriper.MobileNumber</td>
+                                    <td>@rental.BookTitle</td>
+                                    <td>@rental.StartDate.ToString("dd MMM yyyy")</td>
+                                    <td>@rental.EndDate.ToString("dd MMM yyyy")</td>
+                                    <td>@Model.Delay[Idx++]</td>
+                                </tr>   
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        }
+        else 
+        {
+            <div>
+                No Delayed Rentals Founded!
+                </div>
+        }
+    </div>
+</form>
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}

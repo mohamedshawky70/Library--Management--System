@@ -1,0 +1,143 @@
+﻿@model IEnumerable<RentalFormVM>
+@{
+    ViewData["Title"] = "Add Rental";
+}
+<div class="card card-flush shadow-sm">
+
+    <div class="card-header">
+        <h3 class="card-title" style="position: relative;top: -14px;">
+            <span style="padding-left: 15px; padding-top: 20px;" class="menu-title">
+
+                <img src="/images/subscriper/reading1.png" style="width: 23px;position: relative;left: -3px;">
+                </span>
+                <!--end::Svg Icon-->
+                <span style="padding-left: 5px;font-size: 18px;" class="mt-10">Add Rental</span>
+            </span>
+            <span style="padding-left: 15px; padding-top: 20px;" class="menu-title">
+
+                </span>
+                <!--end::Svg Icon-->
+            <a type="button" asp-action="Details" asp-controller="Subscripers" asp-route-id="@Model.First().subsciberId" style="position: relative;left: 810px;" class="mt-10 btn btn-outline-secondary">
+                <i class="bi bi-skip-backward-circle fs-4"></i>Back
+            </a>
+            </span>
+        </h3>
+    </div>
+    <div class="card card-bordered">
+        <div class="card-header">
+            <h3 class="card-title">
+                <!--begin::Search-->
+                <div class="d-flex align-items-center position-relative my-1">
+                    <input type="text" data-kt-filter="search" class="form-control form-control-solid w-250px ps-5" placeholder="Search..." />
+                </div>
+                <!--end::Search-->
+            </h3>
+        </div>
+        @* Star search and export card *@
+
+        <div class="card-body py-5">
+            @if (Model.Any())
+            { 
+                <div class="table-responsive">
+                    <table id="kt_datatable_example" class="table table-striped">
+                        <thead>
+                            <tr class="fw-semibold fs-6 text-gray-800 border-bottom-2 border-gray-200">
+                                <th>Book</th>
+                                <th>Title</th>
+                                 <th>Action</th> 
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var book in Model)
+                            {
+
+                                <tr class="align-middle">
+                                <td>
+                                    <div class="symbol symbol-60px">
+                                        <div class="symbol-label" style="background-image:url(@(book.Img!=null?book.Img:"/Images/Book/default.png"))"></div>
+                                    </div>
+                                    <div>
+                                            <span  asp-route-title="@book.Title" >
+                                            <span style="position: relative;left: 83px;bottom: 53px;color:royalblue;font-weight: bold;">@book.Author.Name</span>
+                                        </span>
+                                        <span style="position: relative;left: 25px;bottom: 31px;color:lightslategray ">@book.Publisher</span>
+                                    </div>
+                                </td>
+                                    <td>
+                                        <div class="symbol symbol-60px">
+                                            <span style="position: relative;left: 2px;bottom: 1px;">@book.Title</span>
+                                    </div>
+                                        
+                                    </td>
+                                    <td>
+                                        @if(book.IsDeleted)
+                                        {
+                                            <div class="badge text-bg-danger">Deleted</div>
+                                        }
+                                        else if(!book.IsAvailableForRental)
+                                        {
+                                            <div class="badge text-bg-secondary">Not available for rental</div>                                        }
+                                        else
+                                        {
+                                        <div class="symbol symbol-60px">
+                                            <a asp-controller="Rentals" asp-action="CreatePost" asp-route-title="@book.Title" asp-route-subsciberid="@book.subsciberId" class="btn btn-sm btn-light-primary">
+                                                    <img src="~/images/subscriper/add.png" class="w-20px" />  rental
+                                                </a>
+                                            </div>
+                                            if(book.CopiesBook.Any())
+                                            {
+                                                <div class="symbol symbol-60px">
+                                                    <a asp-controller="Rentals" asp-action="Copies" asp-route-bookid="@book.Id" asp-route-subsciberid="@book.subsciberId" class="btn btn-sm btn-light-primary">
+                                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                            <path opacity="0.5" d="M18 2H9C7.34315 2 6 3.34315 6 5H8C8 4.44772 8.44772 4 9 4H18C18.5523 4 19 4.44772 19 5V16C19 16.5523 18.5523 17 18 17V19C19.6569 19 21 17.6569 21 16V5C21 3.34315 19.6569 2 18 2Z" fill="currentColor"></path>
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7857 7.125H6.21429C5.62255 7.125 5.14286 7.6007 5.14286 8.1875V18.8125C5.14286 19.3993 5.62255 19.875 6.21429 19.875H14.7857C15.3774 19.875 15.8571 19.3993 15.8571 18.8125V8.1875C15.8571 7.6007 15.3774 7.125 14.7857 7.125ZM6.21429 5C4.43908 5 3 6.42709 3 8.1875V18.8125C3 20.5729 4.43909 22 6.21429 22H14.7857C16.5609 22 18 20.5729 18 18.8125V8.1875C18 6.42709 16.5609 5 14.7857 5H6.21429Z" fill="currentColor"></path>
+                                                        </svg>  copies
+                                                    </a>
+                                                </div>
+                                            }
+                                        }
+                                        
+                                    </td>
+                                </tr>
+                            } 
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else
+            {
+                <!--begin::Alert-->
+                <div class="alert alert-warning d-flex align-items-center p-5">
+                    <!--begin::Icon-->
+                    <i class="ki-duotone ki-shield-tick fs-2hx text-success me-4"><span class="path1"></span><span class="path2"></span></i>
+                    <!--end::Icon-->
+                    <!--begin::Wrapper-->
+                    <div class="d-flex flex-column">
+                        <!--begin::Title-->
+                        <h4 class="mb-1 text-dark"><i style="padding-right:10px" class="bi bi-exclamation-circle fs-3 text-warning"></i>No Books founded!</h4>
+                        <!--end::Title-->
+                    </div>
+                    <!--end::Wrapper-->
+                </div>
+                <!--end::Alert-->
+            }
+        </div>
+
+    </div>
+
+    @* Change in db ,change color ,change text , change time update *@
+    @section scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+    @* render data table when iam her only (Index Category)  *@
+    @section DataTableCss {
+        <link href="~/mecatronic/css/datatables.bundle.css" rel="stylesheet" />
+    }
+    @section DataTableJs {
+        <script src="~/js/indexcategory.js"></script>
+        <script src="~/mecatronic/js/datatables.bundle.js"></script>
+    }
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/centerpagination.css" rel="stylesheet" />
+

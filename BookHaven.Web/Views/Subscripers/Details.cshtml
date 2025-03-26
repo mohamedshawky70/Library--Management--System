@@ -1,0 +1,1459 @@
+﻿@model SubscriperVM
+@{
+    ViewData["Title"] = "Subscriber Details";
+
+}
+<div class="app-main flex-column flex-row-fluid " id="kt_app_main">
+                <!--begin::Content wrapper-->
+                <div class="d-flex flex-column flex-column-fluid">
+                                            
+<!--begin::Toolbar-->
+<div id="kt_app_toolbar" class="app-toolbar  py-3 py-lg-6 ">
+
+            <!--begin::Toolbar container-->
+        <div id="kt_app_toolbar_container" class="app-container  container-xxl d-flex flex-stack ">
+            
+    
+
+<!--begin::Page title-->
+<div class="page-title d-flex flex-column justify-content-center flex-wrap me-3 ">
+    <!--begin::Title-->
+    <h1 class="page-heading d-flex text-gray-900 fw-bold fs-3 flex-column justify-content-center my-0">
+        <div>
+                            <img src="~/images/subscriper/reading1.png" style="width: 24px;position: relative;left: -3px;" />
+                            Subscriber Details
+        </div>
+            </h1>
+    <!--end::Title-->
+
+            
+        <!--begin::Breadcrumb-->
+        <ul class="breadcrumb breadcrumb-separatorless fw-semibold fs-7 my-0 pt-1">
+                      
+                                    <!--begin::Item-->
+                   
+                    <!--end::Item-->                  
+                    </ul>
+        <!--end::Breadcrumb-->
+    </div>
+<!--end::Page title-->
+<!--begin::Actions-->
+<div class="d-flex align-items-center gap-2 gap-lg-3">
+            <!--begin::Filter menu-->
+        <div class="m-0">
+<!--begin::Menu 1-->
+<div class="menu menu-sub menu-sub-dropdown w-250px w-md-300px" data-kt-menu="true" id="kt_menu_677e446132e0f">
+    <!--begin::Header-->
+    <div class="px-7 py-5">
+        <div class="fs-5 text-gray-900 fw-bold">Filter Options</div>
+    </div>
+    <!--end::Header-->
+
+    <!--begin::Menu separator-->
+    <div class="separator border-gray-200"></div>
+    <!--end::Menu separator-->
+    
+
+    <!--begin::Form-->
+    <div class="px-7 py-5">
+        <!--begin::Input group-->
+        <div class="mb-10">
+            <!--begin::Label-->
+            <label class="form-label fw-semibold">Status:</label>
+            <!--end::Label-->
+        </div>
+        <!--end::Input group-->
+
+        <!--begin::Input group-->
+        <div class="mb-10">
+            <!--begin::Label-->
+            <label class="form-label fw-semibold">Member Type:</label>
+            <!--end::Label-->
+
+            <!--begin::Options-->
+            <div class="d-flex">
+                <!--begin::Options-->    
+                <label class="form-check form-check-sm form-check-custom form-check-solid me-5">
+                    <input class="form-check-input" type="checkbox" value="1">
+                    <span class="form-check-label">
+                        Author
+                    </span>
+                </label>
+                <!--end::Options-->    
+
+                <!--begin::Options-->    
+                <label class="form-check form-check-sm form-check-custom form-check-solid">
+                    <input class="form-check-input" type="checkbox" value="2" checked="checked">
+                    <span class="form-check-label">
+                        Customer
+                    </span>
+                </label>
+                <!--end::Options-->    
+            </div>        
+            <!--end::Options-->    
+        </div>
+        <!--end::Input group-->
+
+        <!--begin::Input group-->
+        <div class="mb-10">
+            <!--begin::Label-->
+            <label class="form-label fw-semibold">Notifications:</label>
+            <!--end::Label-->
+
+            <!--begin::Switch-->
+            <div class="form-check form-switch form-switch-sm form-check-custom form-check-solid">
+                <input class="form-check-input" type="checkbox" value="" name="notifications" checked="">
+                <label class="form-check-label">
+                    Enabled
+                </label>
+            </div>
+            <!--end::Switch-->
+        </div>
+        <!--end::Input group-->
+
+        <!--begin::Actions-->
+        <div class="d-flex justify-content-end">
+            <button type="reset" class="btn btn-sm btn-light btn-active-light-primary me-2" data-kt-menu-dismiss="true">Reset</button>
+
+            <button type="submit" class="btn btn-sm btn-primary" data-kt-menu-dismiss="true">Apply</button>
+        </div>
+        <!--end::Actions-->
+    </div>
+    <!--end::Form-->
+</div>
+<!--end::Menu 1-->        </div>
+        <!--end::Filter menu-->
+    
+    
+    <!--begin::Secondary button-->
+        <!--end::Secondary button-->
+    
+</div>
+<!--end::Actions-->
+        </div>
+        <!--end::Toolbar container-->
+    </div>
+<!--end::Toolbar-->                                        
+                    
+<!--begin::Content-->
+<div id="kt_app_content" class="app-content  flex-column-fluid ">
+    
+           
+        <!--begin::Content container-->
+        <div id="kt_app_content_container" class="app-container  container-xxl ">
+            <!--begin::Layout-->
+<div class="d-flex flex-column flex-xl-row">
+    <!--begin::Sidebar-->
+    <div class="flex-column flex-lg-row-auto w-100 w-xl-350px mb-10">
+        
+<!--begin::Card-->
+<div class="card mb-5 mb-xl-8">
+    <!--begin::Card body-->
+    <div class="card-body pt-15">
+        <!--begin::Summary-->
+        <div class="d-flex flex-center flex-column mb-5">
+            <!--begin::Avatar-->
+            <div class="symbol symbol-100px">
+                                        <img src="~/images/subscriper/@Model.ImgUrl" alt="image" style="width: 142px;height: 140px;">
+            </div>
+            <!--end::Avatar-->
+
+            <!--begin::Name-->
+            <div  class="fs-3 text-gray-800 text-hover-primary fw-bold mb-1">
+                @Model.FullName   
+            </div>
+            <!--end::Name-->
+
+            <!--begin::Position-->
+            <div class="fs-5 fw-semibold text-muted mb-6">
+                                        <i class="bi bi-envelope me-1"></i>
+                @Model.Email          
+            </div>
+            <!--end::Position-->
+
+           
+        </div>
+        <!--end::Summary-->
+
+        <!--begin::Details toggle-->
+        <div class="d-flex flex-stack fs-4 py-3">
+            <div class="fw-bold rotate collapsible" data-bs-toggle="collapse" href="#kt_customer_view_details" role="button" aria-expanded="false" aria-controls="kt_customer_view_details">
+                Details
+                <span class="ms-2 rotate-180">
+                    <i class="ki-duotone ki-down fs-3"></i>  
+                </span>
+            </div>
+                <a asp-controller="Subscripers" asp-action="Edite" asp-route-id="@Model.Id" class="btn btn-sm btn-light-primary">
+                    Edit
+                </a>
+        </div>
+        <!--end::Details toggle-->
+
+        <div class="separator separator-dashed my-3"></div>
+        <div class="row row-cols-1 row-cols-md-2 mb-6 mb-xl-9">
+                    <div class="col">
+                        <!--begin::Card-->
+<div class="card pt-4 h-md-100 mb-6 mb-md-0">
+</div>
+<!--end::Card-->                    </div>
+
+                    <div class="col">
+                        <!--begin::Reward Tier-->
+<!--end::Reward Tier-->                    </div>
+                </div>
+        <!--begin::Details content-->
+                                <div id="kt_customer_view_details" class="collapse show" style="position: relative;    top: -54px;">
+            <div class="py-5 fs-6">
+                <!--begin::Badge-->
+                <!--begin::Badge-->
+                                    <!--begin::Details item-->
+                    <div class="fw-bold mt-5">Account ID</div>
+                                        <div class="text-gray-600">ID-@Model.UcryptId</div>
+                    <!--begin::Details item-->
+                                    <!--begin::Details item-->
+                    <div class="fw-bold mt-5">National Id</div>
+                    <div class="text-gray-600">@Model.NationalId</div>
+                    <!--begin::Details item-->
+                                             <!--begin::Details item-->
+                    <div class="fw-bold mt-5">Phone Number</div>
+                    <div class="text-gray-600">@Model.MobileNumber</div>
+                    <!--begin::Details item-->
+                                             <!--begin::Details item-->
+                    <div class="fw-bold mt-5">Date Of Birth</div>
+                    <div class="text-gray-600">@Model.DateOfBirth</div>
+                    <!--begin::Details item-->
+                    <!--begin::Details item-->
+                    <div class="fw-bold mt-5">Area</div>
+                    <div class="text-gray-600">@Model.Area</div>
+                    <!--begin::Details item-->
+
+                    <!--begin::Details item-->
+                    <div class="fw-bold mt-5">Govornorate</div>
+                    <div class="text-gray-600">@Model.Governorate</div>
+                    <!--begin::Details item-->
+                    <!--begin::Details item-->
+                    <div class="fw-bold mt-5">Billing Address</div>
+                    <div class="text-gray-600">@Html.Raw(Model.Address)</div>
+                    <!--begin::Details item-->
+                </div>
+        </div>
+        <!--end::Details content-->
+    </div>
+    <!--end::Card body-->
+</div>
+<!--end::Card-->
+        <!--begin::Connected Accounts-->
+<div class="card mb-5 mb-xl-8">
+
+
+</div>
+<!--end::Connected Accounts-->    </div>
+    <!--end::Sidebar-->
+
+    <!--begin::Content-->
+    <div class="flex-lg-row-fluid ms-lg-15">
+        <!--begin:::Tabs-->
+        <ul class="nav nav-custom nav-tabs nav-line-tabs nav-line-tabs-2x border-0 fs-4 fw-semibold mb-8" role="tablist">
+            <!--begin:::Tab item-->
+            <li class="nav-item" role="presentation">
+                <a class="nav-link text-active-primary pb-4 active" data-bs-toggle="tab" href="#kt_customer_view_overview_tab" aria-selected="true" role="tab">Overview</a>
+            </li>
+            <!--end:::Tab item-->
+
+            <!--begin:::Tab item-->
+            <li class="nav-item" role="presentation">
+                <a class="nav-link text-active-primary pb-4" data-bs-toggle="tab" href="#kt_customer_view_overview_events_and_logs_tab" aria-selected="false" tabindex="-1" role="tab">Rentals</a>
+            </li>
+            <!--end:::Tab item-->
+
+            <!--begin:::Tab item-->
+            <li class="nav-item" role="presentation">
+            </li>
+            <!--end:::Tab item-->
+
+            <!--begin:::Tab item-->
+            <li class="nav-item ms-auto">
+<div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold py-4 w-250px fs-6" data-kt-menu="true">
+    <!--begin::Menu item-->
+    <div class="menu-item px-5">
+        <div class="menu-content text-muted pb-2 px-5 fs-7 text-uppercase">
+            Payments
+        </div>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-5">
+        <a href="#" class="menu-link px-5">
+            Create invoice
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-5">
+        <a href="#" class="menu-link flex-stack px-5">
+            Create payments
+
+            <span class="ms-2" data-bs-toggle="tooltip" aria-label="Specify a target name for future usage and reference" data-bs-original-title="Specify a target name for future usage and reference" data-kt-initialized="1">
+                <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>            </span>
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-5" data-kt-menu-trigger="hover" data-kt-menu-placement="left-start">
+        <a href="#" class="menu-link px-5">
+            <span class="menu-title">Subscription</span>
+            <span class="menu-arrow"></span>
+        </a>
+
+        <!--begin::Menu sub-->
+        <div class="menu-sub menu-sub-dropdown w-175px py-4">
+            <!--begin::Menu item-->
+            <div class="menu-item px-3">
+                <a href="#" class="menu-link px-5">
+                    Apps
+                </a>
+            </div>
+            <!--end::Menu item-->
+
+            <!--begin::Menu item-->
+            <div class="menu-item px-3">
+                <a href="#" class="menu-link px-5">
+                    Billing
+                </a>
+            </div>
+            <!--end::Menu item-->
+
+            <!--begin::Menu item-->            
+            <div class="menu-item px-3">
+                <a href="#" class="menu-link px-5">
+                    Statements
+                </a>
+            </div>
+            <!--end::Menu item-->
+            
+            <!--begin::Menu separator-->
+            <div class="separator my-2"></div>
+            <!--end::Menu separator-->
+
+            <!--begin::Menu item-->            
+            <div class="menu-item px-3">
+                <div class="menu-content px-3">
+                    <label class="form-check form-switch form-check-custom form-check-solid">
+                        <input class="form-check-input w-30px h-20px" type="checkbox" value="" name="notifications" checked="" id="kt_user_menu_notifications">
+                        <span class="form-check-label text-muted fs-6" for="kt_user_menu_notifications">
+                        Notifications
+                        </span>
+                    </label>
+                </div>
+            </div>
+            <!--end::Menu item-->
+        </div>
+        <!--end::Menu sub-->
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu separator-->
+    <div class="separator my-3"></div>
+    <!--end::Menu separator-->
+    
+    <!--begin::Menu item-->
+    <div class="menu-item px-5">
+        <div class="menu-content text-muted pb-2 px-5 fs-7 text-uppercase">
+            Account
+        </div>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-5">
+        <a href="#" class="menu-link px-5">
+            Reports
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-5 my-1">
+        <a href="#" class="menu-link px-5">
+            Account Settings
+        </a>
+    </div>
+    <!--end::Menu item-->
+
+    <!--begin::Menu item-->
+    <div class="menu-item px-5">
+        <a href="#" class="menu-link text-danger px-5">
+            Delete customer
+        </a>
+    </div>
+    <!--end::Menu item-->
+</div>
+<!--end::Menu-->
+                <!--end::Menu-->
+            </li>
+            <!--end:::Tab item-->
+        </ul>
+        <!--end:::Tabs-->
+
+        <!--begin:::Tab content-->
+
+        <div class="tab-content" id="myTabContent">
+            <!--begin:::Tab pane-->
+            <div class="tab-pane fade show active" id="kt_customer_view_overview_tab" role="tabpanel">
+                                <!--begin::Card--><div class="row row-cols-1 row-cols-md-2 mb-6 mb-xl-9">
+                                    <div class="col">
+                                        <!--begin::Card-->
+                                        <div class="card pt-4 h-md-100 mb-6 mb-md-0">
+                                            <!--begin::Card header-->
+                                            <div class="card-header border-0">
+                                                <!--begin::Card title-->
+                                                <img src="~/images/subscriper/clock.png" style="width: 50px;margin-top: 34px;margin-bottom: 30px;" />
+                                                <div class="card-title">
+                                                    <h2 class="fw-bold"> </h2>
+                                                 </div>
+                                                <!--end::Card title-->
+                                            </div>
+                                            <!--end::Card header-->
+                                            <!--begin::Card body-->
+                                            <div class="card-body pt-0">
+                                                <div class="fw-bold fs-2">
+                                                    <div class="d-flex">
+                                                        <i class="ki-duotone ki-heart text-info fs-2x"><span class="path1"></span><span class="path2"></span></i>                <div class="ms-2">
+                                                            <h4>
+                                                                @{
+                                                                    var sum = 0;
+                                                                }
+                                                                @foreach (var delay in Model.Rentals)
+                                                                {
+                                                                    sum += delay.DelayInDays;
+                                                                }
+                                                                @(Model.Rentals.Count() == 0 ? "No Rentals" : $"Total delay in rental " + sum + " Day")
+                                                            </h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--end::Card body-->
+                                        </div>
+                                        <!--end::Card-->
+                                    </div>
+
+                                    <div class="col" style="position: relative;top: -8px;">
+                                        <!--begin::Reward Tier-->
+                                        <a href="#" class="card bg-info hoverable h-md-100" style=" position: relative;left: -1px;top: 7px;">
+                                            <!--begin::Body-->
+                                            <div class="card-body">
+                                                <i class="ki-duotone ki-award text-white fs-3x ms-n1"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>
+                                                <div class="text-white fw-bold fs-2 mt-5">
+                                                    <img src="~/images/subscriper/star.png" style="width: 51px;position: relative;top: -36px;" />
+                                                    <div style="position: relative;    top: -12px;    left: 10px;">
+                                                        <h3 style ="color:white;"></h3>
+                                                        <h5 style="color:white;">Subscribed since: @Model.CreatedOn.ToString("dd MMM yyyy")</h5>
+                                                    </div>
+                                                </div>
+
+                                                
+                                            </div>
+                                            <!--end::Body-->
+                                        </a>
+                                        <!--end::Reward Tier-->
+                                    </div>
+                                </div>
+<div class="card pt-4 mb-6 mb-xl-9" style="height: 125px;">
+    <div class="card mb-5 mb-xl-8">
+        <!--begin::Header-->
+        <div class="card-header border-0 pt-5">
+            <h3 class="card-title align-items-start flex-column">
+                <span class="card-label fw-bold fs-3 mb-1">Renewal History</span>
+                                            </h3>
+            @if(!Model.IsBlackList)
+            {
+                <div class="card-toolbar">
+                         <a asp-controller="Subscripers" asp-action="RenewSubscription" asp-route-id="@Model.Id" class="btn btn-sm btn-light-primary">
+                         <img src="~/images/subscriper/refresh-button_3588513.png"class="w-20px" />                    Renew
+                    </a>
+                </div>
+            }       
+        </div>
+        <!--end::Header-->
+        <!--begin::Body-->
+        <div class="card-body py-3">
+            <!--begin::Table container-->
+            <div class="table-responsive">
+                <!--begin::Table-->
+                <table class="table align-middle gs-0 gy-4">
+                    <!--begin::Table head-->
+                    <thead>
+                        <tr class="fw-bold text-muted bg-light">
+                            <th class="min-w-125px">Start Date</th>
+                            <th class="min-w-125px">End Date</th>
+                            <th class="min-w-150px">Created On</th>
+                            <th class="min-w-125px">Status</th>
+                        </tr>
+                    </thead>
+                    <!--end::Table head-->
+                    <!--begin::Table body-->
+                    <tbody>
+                           @if(Model?.subcribtions.Count()>0)
+                                {
+                                    @foreach (var subscription in Model.subcribtions)
+                                    {
+                                        <tr>
+                                            <td>@subscription.StartDate.ToString("dd MMM yyyy")</td>
+                                            <td>@subscription.EndDate.ToString("dd MMM yyyy")</td>
+                                            <td>@subscription.CreatedOn.ToString("dd MMM yyyy")</td>
+                                            <td>
+                                                <span class="badge badge-light-@(subscription.Status==SubcribtionStatus.Active?"success":subscription.Status==SubcribtionStatus.Expire?"warning":"info")">
+                                                    @subscription.Status
+                                                </span>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                    </tbody>
+                    <!--end::Table body-->
+                </table>
+                <!--end::Table-->
+            </div>
+            <!--end::Table container-->
+        </div>
+        <!--begin::Body-->
+    </div>
+
+<!--begin::Card body-->
+<div class="card-body pt-0 pb-5">
+<!--begin::Table-->
+<div id="kt_table_customers_payment_wrapper" class="dt-container dt-bootstrap5 dt-empty-footer"><div id="" class="table-responsive"><table class="table align-middle table-row-dashed gy-5 dataTable" id="kt_table_customers_payment" style="width: 100%;"><colgroup><col data-dt-column="0" style="width: 137px;"><col data-dt-column="1" style="width: 125.975px;"><col data-dt-column="2" style="width: 110.562px;"><col data-dt-column="3" style="width: 214.838px;"><col data-dt-column="4" style="width: 148.575px;"></colgroup>
+          
+<tbody class="fs-6 fw-semibold text-gray-600">
+                    
+                        
+                    
+</tbody>
+<!--end::Table body-->
+</table>
+</div><div id="" class="row"><div id="" class="col-sm-12 col-md-5 d-flex align-items-center justify-content-center justify-content-md-start dt-toolbar"></div><div class="col-sm-12 col-md-7 d-flex align-items-center justify-content-center justify-content-md-end"><div class="dt-paging paging_simple_numbers"><nav  aria-controls="kt_table_customers_payment" aria-disabled="true"></li></ul></nav></div></div></div></div>
+<!--end::Table-->
+</div>
+<!--end::Card body-->
+</div>
+<!--end::Card-->
+</div>
+            <!--end:::Tab pane-->
+
+            <!--begin:::Tab pane-->
+            <div class="tab-pane fade" id="kt_customer_view_overview_events_and_logs_tab" role="tabpanel">
+                
+<!--begin::Card-->
+                                <div class="card pt-4 mb-6 mb-xl-9" style="width: 639px;">
+    <!--begin::Card header-->
+
+    <!--end::Card header-->
+                                    <div class="card-header border-0 pt-5">
+                                        <h3 class="card-title align-items-start flex-column">
+                                            <span class="card-label fw-bold fs-3 mb-1">Rentals</span>
+                                        </h3>
+                                        @if (Model.subcribtions.Count > 0)
+                                        {
+                                            @if (!Model.IsBlackList && Model.subcribtions.Last().EndDate > DateTime.Today.AddDays(7)) //still active
+                                            {
+                                                <div class="card-toolbar">
+                                                    <a asp-controller="Rentals" asp-action="Create" asp-route-id="@Model.Id" class="btn btn-sm btn-light-primary">
+                                                        <img src="~/images/subscriper/add.png" class="w-20px" />   Add rental
+                                                    </a>
+                                                </div>
+                                            }
+                                        }
+                                    </div>
+    <!--begin::Card body-->
+                                    <div class="card pt-4 mb-6 mb-xl-9" style="height: 125px;">
+                                        <div class="card mb-5 mb-xl-8">                                      
+                                            <!--begin::Body-->
+                                            <div class="card-body py-3">
+                                                <!--begin::Table container-->
+                                                <div class="table-responsive">
+                                                    <!--begin::Table-->
+                                                    <table class="table align-middle gs-0 gy-4">
+                                                        <!--begin::Table head-->
+                                                         @if(Model.Rentals.Count>0)
+                                                        {
+                                                            <thead>
+                                                                <tr class="fw-bold text-muted bg-light">
+                                                                    <th class="min-w-120px">Start Date</th>
+                                                                    <th class="min-w-120px">End Date</th>
+                                                                    <th class="min-w-135px">Return Date</th>
+                                                                    <th class="min-w-130px">Penalty Paid</th>
+                                                                    <th style ="width: 96px;"class="min-w-130px">
+                                                                        Book Title</th>
+                                                                    <th class="min-w-105px">Delay</th>
+                                                                    <th class="min-w-105px">Action</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <!--end::Table head-->
+                                                            <!--begin::Table body-->
+                                                            <tbody>
+                                                                
+                                                                @foreach (var rental in Model?.Rentals)
+                                                                {
+                                                                    <tr>
+                                                                        <td>@rental.StartDate.ToString("dd MMM yyy")</td>
+                                                                        <td>@rental.EndDate.ToString("dd MMM yyy")</td>
+                                                                        <td>
+                                                                            @if(rental?.ReturnDate==null)
+                                                                            {
+                                                                                <a asp-controller="Rentals" asp-action="ReturnDate" asp-route-id="@rental.Id" asp-route-subsciberid="@Model.Id"><img style="width: 22px;position: relative;left: 24px;" src="~/images/subscriper/check.png" /></a>
+                                                                            }
+                                                                            else
+                                                                            {
+
+                                                                                @rental.ReturnDate?.ToString("dd MMM yyy");
+
+                                                                            }
+                                                                            </td>
+                                                                        
+
+                                                                        <td style="position: relative;left: 34px;">
+                                                                            @if (rental.DelayInDays>0)
+                                                                            {
+                                                                                if (!rental.PenaltyPaid)
+                                                                                {
+                                                                                    <a  asp-controller="Rentals" asp-action="PenaltyPaid" asp-route-id="@rental.Id" asp-route-subsciberid="@Model.Id">
+                                                                                        <img style="width: 22px;position: relative;left: -6px;" src="~/images/subscriper/check.png" />
+                                                                                    </a>
+                                                                                }
+                                                                                else
+                                                                                {
+                                                                                    <div class="badge badge-success" style="position: relative;left: -13px;">True</div>
+                                                                                }
+                                                                            }
+                                                                            else
+                                                                            {
+                                                                               <div>_</div>
+                                                                            }
+                                                                        </td>
+                                                                       
+                                                                        <td>@rental.BookTitle</td>
+                                                                        <td><span class="badge badge-light-@(rental.DelayInDays==0?"success":"warning")">@rental.DelayInDays</span></td>
+                                                                        <td>
+                                                                            <a class="DeleteRental" asp-action="Delete" asp-controller="Rentals" asp-route-rentalid="@rental.Id" asp-route-subscriberid="@Model.Id">
+                                                                                <img style="width: 22px;position: relative;left: 9px;" src="~/images/subscriper/cancel.png" />
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                }
+
+
+                                                            </tbody>
+                                                            <!--end::Table body-->
+                                                        }
+                                                        else
+                                                        {
+                                                            <!--begin::Alert-->
+                                                            <div class="alert alert-warning d-flex align-items-center p-5">
+                                                                <!--begin::Icon-->
+                                                                <i class="ki-duotone ki-shield-tick fs-2hx text-success me-4"><span class="path1"></span><span class="path2"></span></i>
+                                                                <!--end::Icon-->
+                                                                <!--begin::Wrapper-->
+                                                                <div class="d-flex flex-column">
+                                                                    <!--begin::Title-->
+                                                                    <h4 class="mb-1 text-dark"><i style="padding-right:10px" class="bi bi-exclamation-circle fs-3 text-warning"></i>No rentals founded!</h4>
+                                                                    <!--end::Title-->
+                                                                </div>
+                                                                <!--end::Wrapper-->
+                                                            </div>
+                                                            <!--end::Alert-->
+                                                        } 
+                                                    </table>
+                                                    <!--end::Table-->
+                                                </div>
+                                                <!--end::Table container-->
+                                            </div>
+                                            <!--begin::Body-->
+                                        </div>
+
+                                        <!--begin::Card body-->
+                                        <div class="card-body pt-0 pb-5">
+                                            <!--begin::Table-->
+                                            <div id="kt_table_customers_payment_wrapper" class="dt-container dt-bootstrap5 dt-empty-footer">
+                                                <div id="" class="table-responsive">
+                                                    <table class="table align-middle table-row-dashed gy-5 dataTable" id="kt_table_customers_payment" style="width: 100%;">
+                                                        <colgroup><col data-dt-column="0" style="width: 137px;"><col data-dt-column="1" style="width: 125.975px;"><col data-dt-column="2" style="width: 110.562px;"><col data-dt-column="3" style="width: 214.838px;"><col data-dt-column="4" style="width: 148.575px;"></colgroup>
+
+                                                        <tbody class="fs-6 fw-semibold text-gray-600">
+                                                        </tbody>
+                                                        <!--end::Table body-->
+                                                    </table>
+                                                </div><div id="" class="row"><div id="" class="col-sm-12 col-md-5 d-flex align-items-center justify-content-center justify-content-md-start dt-toolbar"></div><div class="col-sm-12 col-md-7 d-flex align-items-center justify-content-center justify-content-md-end"><div class="dt-paging paging_simple_numbers"><nav aria-controls="kt_table_customers_payment" aria-disabled="true"></nav></div></div></div>
+                                            </div>
+                                            <!--end::Table-->
+                                        </div>
+                                        <!--end::Card body-->
+                                    </div>
+    <!--end::Card body-->
+</div>
+<!--end::Card-->
+                <!--begin::Card-->
+
+<!--end::Card-->            </div>
+
+
+         
+            <!--end:::Tab pane-->
+        </div>
+        <!--end:::Tab content-->
+    </div>
+    <!--end::Content-->
+</div>
+<!--end::Layout-->
+
+<!--begin::Modals-->
+<!--begin::Modal - Add Payment-->
+<div class="modal fade" id="kt_modal_add_payment" tabindex="-1" aria-hidden="true">
+    <!--begin::Modal dialog-->
+    <div class="modal-dialog mw-650px">
+        <!--begin::Modal content-->
+        <div class="modal-content">
+            <!--begin::Modal header-->
+            <div class="modal-header">
+                <!--begin::Modal title-->
+                <h2 class="fw-bold">Add a Payment Record</h2>
+                <!--end::Modal title-->
+
+                <!--begin::Close-->
+                <div id="kt_modal_add_payment_close" class="btn btn-icon btn-sm btn-active-icon-primary">
+                    <i class="ki-duotone ki-cross fs-1"><span class="path1"></span><span class="path2"></span></i>                </div>
+                <!--end::Close-->
+            </div>
+            <!--end::Modal header-->
+
+            <!--begin::Modal body-->
+            <div class="modal-body scroll-y mx-5 mx-xl-15 my-7">
+                <!--begin::Form-->
+                <form id="kt_modal_add_payment_form" class="form fv-plugins-bootstrap5 fv-plugins-framework" action="#">
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-7 fv-plugins-icon-container">
+                        <!--begin::Label-->
+                        <label class="fs-6 fw-semibold form-label mb-2">
+                            <span class="required">Invoice Number</span>
+
+                            <span class="ms-2" data-bs-toggle="tooltip" aria-label="The invoice number must be unique." data-bs-original-title="The invoice number must be unique." data-kt-initialized="1">
+                                <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>                            </span>
+                        </label>
+                        <!--end::Label-->
+
+                        <!--begin::Input-->
+                        <input type="text" class="form-control form-control-solid" name="invoice" value="">
+                        <!--end::Input-->
+                    <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+                    <!--end::Input group-->
+
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-7 fv-plugins-icon-container">
+                        <!--begin::Label-->
+                        <label class="required fs-6 fw-semibold form-label mb-2">Status</label>
+                        <!--end::Label-->
+
+                        <!--begin::Input-->
+                        <select class="form-select form-select-solid fw-bold select2-hidden-accessible" name="status" data-control="select2" data-placeholder="Select an option" data-hide-search="true" data-select2-id="select2-data-9-1tji" tabindex="-1" aria-hidden="true" data-kt-initialized="1">
+                            <option data-select2-id="select2-data-11-coes"></option>
+                                                            <option value="0">Approved</option>
+                                                            <option value="1">Pending</option>
+                                                            <option value="2">Rejected</option>
+                                                            <option value="3">In progress</option>
+                                                            <option value="4">Completed</option>
+                                                    </select><span class="select2 select2-container select2-container--bootstrap5" dir="ltr" data-select2-id="select2-data-10-c202" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single form-select form-select-solid fw-bold" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-status-37-container" aria-controls="select2-status-37-container"><span class="select2-selection__rendered" id="select2-status-37-container" role="textbox" aria-readonly="true" title="Select an option"><span class="select2-selection__placeholder">Select an option</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                        <!--end::Input-->
+                    <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+                    <!--end::Input group-->
+
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-7 fv-plugins-icon-container">
+                        <!--begin::Label-->
+                        <label class="required fs-6 fw-semibold form-label mb-2">Invoice Amount</label>
+                        <!--end::Label-->
+
+                        <!--begin::Input-->
+                        <input type="text" class="form-control form-control-solid" name="amount" value="">
+                        <!--end::Input-->
+                    <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+                    <!--end::Input group-->
+
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-15">
+                        <!--begin::Label-->
+                        <label class="fs-6 fw-semibold form-label mb-2">
+                            <span class="required">Additional Information</span>
+
+                            <span class="ms-2" data-bs-toggle="tooltip" aria-label="Information such as description of invoice or product purchased." data-bs-original-title="Information such as description of invoice or product purchased." data-kt-initialized="1">
+                                <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>                            </span>                           
+                        </label>
+                        <!--end::Label-->
+
+                        <!--begin::Input-->
+                        <textarea class="form-control form-control-solid rounded-3" name="additional_info"></textarea>
+                        <!--end::Input-->
+                    </div>
+                    <!--end::Input group-->
+
+                    <!--begin::Actions-->
+                    <div class="text-center">
+                        <button type="reset" id="kt_modal_add_payment_cancel" class="btn btn-light me-3">
+                            Discard
+                        </button>
+
+                        <button type="submit" id="kt_modal_add_payment_submit" class="btn btn-primary">
+                            <span class="indicator-label">
+                                Submit
+                            </span>
+                            <span class="indicator-progress">
+                                Please wait... <span class="spinner-border spinner-border-sm align-middle ms-2"></span>
+                            </span>
+                        </button>
+                    </div>
+                    <!--end::Actions-->
+                </form>
+                <!--end::Form-->
+            </div>
+            <!--end::Modal body-->
+        </div>
+        <!--end::Modal content-->
+    </div>
+    <!--end::Modal dialog-->
+</div>
+<!--end::Modal - New Card--><!--begin::Modal - Adjust Balance-->
+<div class="modal fade" id="kt_modal_adjust_balance" tabindex="-1" aria-hidden="true">
+    <!--begin::Modal dialog-->
+    <div class="modal-dialog modal-dialog-centered mw-650px">
+        <!--begin::Modal content-->
+        <div class="modal-content">
+            <!--begin::Modal header-->
+            <div class="modal-header">
+                <!--begin::Modal title-->
+                <h2 class="fw-bold">Adjust Balance</h2>
+                <!--end::Modal title-->
+
+                <!--begin::Close-->
+                <div id="kt_modal_adjust_balance_close" class="btn btn-icon btn-sm btn-active-icon-primary">
+                    <i class="ki-duotone ki-cross fs-1"><span class="path1"></span><span class="path2"></span></i>                </div>
+                <!--end::Close-->
+            </div>
+            <!--end::Modal header-->
+
+            <!--begin::Modal body-->
+            <div class="modal-body scroll-y mx-5 mx-xl-15 my-7">
+                <!--begin::Balance preview-->
+                <div class="d-flex text-center mb-9">
+                    <div class="w-50 border border-dashed border-gray-300 rounded mx-2 p-4">
+                        <div class="fs-6 fw-semibold mb-2 text-muted">Current Balance</div>
+                        <div class="fs-2 fw-bold" kt-modal-adjust-balance="current_balance">US$ 32,487.57</div>
+                    </div>
+                    <div class="w-50 border border-dashed border-gray-300 rounded mx-2 p-4">
+                        <div class="fs-6 fw-semibold mb-2 text-muted">
+                            New Balance
+
+                            <span class="ms-2" data-bs-toggle="tooltip" aria-label="Enter an amount to preview the new balance." data-bs-original-title="Enter an amount to preview the new balance." data-kt-initialized="1">
+                                <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>                            </span>
+                        </div>
+                        <div class="fs-2 fw-bold" kt-modal-adjust-balance="new_balance">--</div>
+                    </div>
+                </div>
+                <!--end::Balance preview-->
+
+                <!--begin::Form-->
+                <form id="kt_modal_adjust_balance_form" class="form fv-plugins-bootstrap5 fv-plugins-framework" action="#">
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-7 fv-plugins-icon-container">
+                        <!--begin::Label-->
+                        <label class="required fs-6 fw-semibold form-label mb-2">Adjustment type</label>
+                        <!--end::Label-->
+
+                        <!--begin::Dropdown-->
+                        <select class="form-select form-select-solid fw-bold select2-hidden-accessible" name="adjustment" aria-label="Select an option" data-control="select2" data-dropdown-parent="#kt_modal_adjust_balance" data-placeholder="Select an option" data-hide-search="true" data-select2-id="select2-data-12-485h" tabindex="-1" aria-hidden="true" data-kt-initialized="1">
+                            <option data-select2-id="select2-data-14-zjrw"></option>
+                            <option value="1">Credit</option>
+                            <option value="2">Debit</option>
+                        </select><span class="select2 select2-container select2-container--bootstrap5" dir="ltr" data-select2-id="select2-data-13-zg27" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single form-select form-select-solid fw-bold" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-adjustment-ko-container" aria-controls="select2-adjustment-ko-container"><span class="select2-selection__rendered" id="select2-adjustment-ko-container" role="textbox" aria-readonly="true" title="Select an option"><span class="select2-selection__placeholder">Select an option</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                        <!--end::Dropdown-->
+                    <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+                    <!--end::Input group-->
+
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-7 fv-plugins-icon-container">
+                        <!--begin::Label-->
+                        <label class="required fs-6 fw-semibold form-label mb-2">Amount</label>
+                        <!--end::Label-->
+
+                        <!--begin::Input-->
+                        <input id="kt_modal_inputmask" type="text" class="form-control form-control-solid" name="amount" value="" inputmode="text">
+                        <!--end::Input-->
+                    <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+                    <!--end::Input group-->
+
+                    <!--begin::Input group-->
+                     <div class="fv-row mb-7">
+                        <!--begin::Label-->
+                        <label class="fs-6 fw-semibold form-label mb-2">Add adjustment note</label>
+                        <!--end::Label-->
+
+                        <!--begin::Input-->
+                        <textarea class="form-control form-control-solid rounded-3 mb-5"></textarea>
+                        <!--end::Input-->
+                    </div>
+                    <!--end::Input group-->
+
+                    <!--begin::Disclaimer-->
+                    <div class="fs-7 text-muted mb-15">
+                        Please be aware that all manual balance changes will be audited by the financial team every fortnight. Please maintain your invoices and receipts until then. Thank you.
+                    </div>
+                    <!--end::Disclaimer-->
+
+                    <!--begin::Actions-->
+                    <div class="text-center">
+                        <button type="reset" id="kt_modal_adjust_balance_cancel" class="btn btn-light me-3">
+                            Discard
+                        </button>
+
+                        <button type="submit" id="kt_modal_adjust_balance_submit" class="btn btn-primary">
+                            <span class="indicator-label">
+                                Submit
+                            </span>
+                            <span class="indicator-progress">
+                                Please wait... <span class="spinner-border spinner-border-sm align-middle ms-2"></span>
+                            </span>
+                        </button>
+                    </div>
+                    <!--end::Actions-->
+                </form>
+                <!--end::Form-->
+            </div>
+            <!--end::Modal body-->
+        </div>
+        <!--end::Modal content-->
+    </div>
+    <!--end::Modal dialog-->
+</div>
+<!--end::Modal - New Card--><!--begin::Modal - New Address-->
+<div class="modal fade" id="kt_modal_update_customer" tabindex="-1" aria-hidden="true">
+    <!--begin::Modal dialog-->
+    <div class="modal-dialog modal-dialog-centered mw-650px">
+        <!--begin::Modal content-->
+        <div class="modal-content">
+            <!--begin::Form-->
+            <form class="form" action="#" id="kt_modal_update_customer_form">
+                <!--begin::Modal header-->
+                <div class="modal-header" id="kt_modal_update_customer_header">
+                    <!--begin::Modal title-->
+                    <h2 class="fw-bold">Update Customer</h2>
+                    <!--end::Modal title-->
+
+                    <!--begin::Close-->
+                    <div id="kt_modal_update_customer_close" class="btn btn-icon btn-sm btn-active-icon-primary">
+                        <i class="ki-duotone ki-cross fs-1"><span class="path1"></span><span class="path2"></span></i>                    </div>
+                    <!--end::Close-->
+                </div>
+                <!--end::Modal header-->
+
+                <!--begin::Modal body-->
+                <div class="modal-body py-10 px-lg-17">
+                    <!--begin::Scroll-->
+                    <div class="d-flex flex-column scroll-y me-n7 pe-7" id="kt_modal_update_customer_scroll" data-kt-scroll="true" data-kt-scroll-activate="{default: false, lg: true}" data-kt-scroll-max-height="auto" data-kt-scroll-dependencies="#kt_modal_update_customer_header" data-kt-scroll-wrappers="#kt_modal_update_customer_scroll" data-kt-scroll-offset="300px" style="max-height: 172px;">
+                        <!--begin::Notice-->
+                        
+<!--begin::Notice-->
+<div class="notice d-flex bg-light-primary rounded border-primary border border-dashed mb-9 p-6">
+            <!--begin::Icon-->
+        <i class="ki-duotone ki-information fs-2tx text-primary me-4"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>        <!--end::Icon-->
+    
+    <!--begin::Wrapper-->
+    <div class="d-flex flex-stack flex-grow-1 ">
+                    <!--begin::Content-->
+            <div class=" fw-semibold">
+                
+                                    <div class="fs-6 text-gray-700 ">Updating customer details will receive a privacy audit. For more info, please read our <a href="#">Privacy Policy</a></div>
+                            </div>
+            <!--end::Content-->
+        
+            </div>
+    <!--end::Wrapper-->  
+</div>
+<!--end::Notice-->
+                        <!--end::Notice-->
+
+                        <!--begin::User toggle-->
+                        <div class="fw-bold fs-3 rotate collapsible mb-7" data-bs-toggle="collapse" href="#kt_modal_update_customer_user_info" role="button" aria-expanded="false" aria-controls="kt_modal_update_customer_user_info">
+                            User Information
+                            <span class="ms-2 rotate-180">
+                                <i class="ki-duotone ki-down fs-3"></i>                            </span>
+                        </div>
+                        <!--end::User toggle-->
+
+                        <!--begin::User form-->
+                        <div id="kt_modal_update_customer_user_info" class="collapse show">
+                            <!--begin::Input group-->
+                            <div class="mb-7">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">
+                                    <span>Update Avatar</span>
+
+                                    <span class="ms-1" data-bs-toggle="tooltip" aria-label="Allowed file types: png, jpg, jpeg." data-bs-original-title="Allowed file types: png, jpg, jpeg." data-kt-initialized="1">
+                                        <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>                                    </span>
+                                </label>
+                                <!--end::Label-->
+
+                                <!--begin::Image input wrapper-->
+                                <div class="mt-1">
+                                    <!--begin::Image input-->
+                                    <div class="image-input image-input-outline" data-kt-image-input="true" style="background-image: url('/metronic8/demo1/assets/media/svg/avatars/blank.svg')">
+                                        <!--begin::Preview existing avatar-->
+                                        <div class="image-input-wrapper w-125px h-125px" style="background-image: url(/metronic8/demo1/assets/media/avatars/300-1.jpg)"></div>
+                                        <!--end::Preview existing avatar-->
+
+                                        <!--begin::Edit-->
+                                        <label class="btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="change" data-bs-toggle="tooltip" aria-label="Change avatar" data-bs-original-title="Change avatar" data-kt-initialized="1">
+                                            <i class="ki-duotone ki-pencil fs-7"><span class="path1"></span><span class="path2"></span></i>
+                                            <!--begin::Inputs-->
+                                            <input type="file" name="avatar" accept=".png, .jpg, .jpeg">
+                                            <input type="hidden" name="avatar_remove">
+                                            <!--end::Inputs-->
+                                        </label>
+                                        <!--end::Edit-->
+
+                                        <!--begin::Cancel-->
+                                        <span class="btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="cancel" data-bs-toggle="tooltip" aria-label="Cancel avatar" data-bs-original-title="Cancel avatar" data-kt-initialized="1">
+                                            <i class="ki-duotone ki-cross fs-2"><span class="path1"></span><span class="path2"></span></i>                                        </span>
+                                        <!--end::Cancel-->
+
+                                        <!--begin::Remove-->
+                                        <span class="btn btn-icon btn-circle btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="remove" data-bs-toggle="tooltip" aria-label="Remove avatar" data-bs-original-title="Remove avatar" data-kt-initialized="1">
+                                            <i class="ki-duotone ki-cross fs-2"><span class="path1"></span><span class="path2"></span></i>                                        </span>
+                                        <!--end::Remove-->
+                                    </div>
+                                    <!--end::Image input-->
+                                </div>
+                                <!--end::Image input wrapper-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="fv-row mb-7">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">Name</label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <input type="text" class="form-control form-control-solid" placeholder="" name="name" value="Sean Bean">
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="fv-row mb-7">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">
+                                    <span>Email</span>
+
+                                    <span class="ms-1" data-bs-toggle="tooltip" aria-label="Email address must be active" data-bs-original-title="Email address must be active" data-kt-initialized="1">
+                                        <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>                                    </span>
+                                </label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <input type="email" class="form-control form-control-solid" placeholder="" name="email" value="sean@dellito.com">
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="fv-row mb-15">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">Description</label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <input type="text" class="form-control form-control-solid" placeholder="" name="description">
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+                        </div>
+                        <!--end::User form-->
+
+                        <!--begin::Billing toggle-->
+                        <div class="fw-bold fs-3 rotate collapsible collapsed mb-7" data-bs-toggle="collapse" href="#kt_modal_update_customer_billing_info" role="button" aria-expanded="false" aria-controls="kt_modal_update_customer_billing_info">
+                            Shipping Information
+                            <span class="ms-2 rotate-180">
+                                <i class="ki-duotone ki-down fs-3"></i>                            </span>
+                        </div>
+                        <!--end::Billing toggle-->
+
+                        <!--begin::Billing form-->
+                        <div id="kt_modal_update_customer_billing_info" class="collapse">
+                            <!--begin::Input group-->
+                            <div class="d-flex flex-column mb-7 fv-row">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">Address Line 1</label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <input class="form-control form-control-solid" placeholder="" name="address1" value="101, Collins Street">
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="d-flex flex-column mb-7 fv-row">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">Address Line 2</label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <input class="form-control form-control-solid" placeholder="" name="address2">
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="d-flex flex-column mb-7 fv-row">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">Town</label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <input class="form-control form-control-solid" placeholder="" name="city" value="Melbourne">
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="row g-9 mb-7">
+                                <!--begin::Col-->
+                                <div class="col-md-6 fv-row">
+                                    <!--begin::Label-->
+                                    <label class="fs-6 fw-semibold mb-2">State / Province</label>
+                                    <!--end::Label-->
+
+                                    <!--begin::Input-->
+                                    <input class="form-control form-control-solid" placeholder="" name="state" value="Victoria">
+                                    <!--end::Input-->
+                                </div>
+                                <!--end::Col-->
+
+                                <!--begin::Col-->
+                                <div class="col-md-6 fv-row">
+                                    <!--begin::Label-->
+                                    <label class="fs-6 fw-semibold mb-2">Post Code</label>
+                                    <!--end::Label-->
+
+                                    <!--begin::Input-->
+                                    <input class="form-control form-control-solid" placeholder="" name="postcode" value="3000">
+                                    <!--end::Input-->
+                                </div>
+                                <!--end::Col-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="d-flex flex-column mb-7 fv-row">
+                                <!--begin::Label-->
+                                <label class="fs-6 fw-semibold mb-2">
+                                    <span>Country</span>
+
+                                    <span class="ms-1" data-bs-toggle="tooltip" aria-label="Country of origination" data-bs-original-title="Country of origination" data-kt-initialized="1">
+                                        <i class="ki-duotone ki-information fs-7"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>                                    </span>
+                                </label>
+                                <!--end::Label-->
+
+                                <!--begin::Input-->
+                                <select name="country" aria-label="Select a Country" data-control="select2" data-placeholder="Select a Country..." data-dropdown-parent="#kt_modal_update_customer" class="form-select form-select-solid fw-bold select2-hidden-accessible" data-select2-id="select2-data-15-kswm" tabindex="-1" aria-hidden="true" data-kt-initialized="1">
+                                    <option value="" data-select2-id="select2-data-17-nc8u">Select a Country...</option>
+                                                                    
+                                    </select><span class="select2 select2-container select2-container--bootstrap5" dir="ltr" data-select2-id="select2-data-16-1fv4" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single form-select form-select-solid fw-bold" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-country-ov-container" aria-controls="select2-country-ov-container"><span class="select2-selection__rendered" id="select2-country-ov-container" role="textbox" aria-readonly="true" title="Select a Country..."><span class="select2-selection__placeholder">Select a Country...</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                                <!--end::Input-->
+                            </div>
+                            <!--end::Input group-->
+
+                            <!--begin::Input group-->
+                            <div class="fv-row mb-7">
+                                <!--begin::Wrapper-->
+                                <div class="d-flex flex-stack">
+                                    <!--begin::Label-->
+                                    <div class="me-5">
+                                        <!--begin::Label-->
+                                        <label class="fs-6 fw-semibold">Use as a billing adderess?</label>
+                                        <!--end::Label-->
+
+                                        <!--begin::Input-->
+                                        <div class="fs-7 fw-semibold text-muted">If you need more info, please check budget planning</div>
+                                        <!--end::Input-->
+                                    </div>
+                                    <!--end::Label-->
+
+                                    <!--begin::Switch-->
+                                    <label class="form-check form-switch form-check-custom form-check-solid">
+                                        <!--begin::Input-->
+                                        <input class="form-check-input" name="billing" type="checkbox" value="1" id="kt_modal_update_customer_billing" checked="checked">
+                                        <!--end::Input-->
+
+                                        <!--begin::Label-->
+                                        <span class="form-check-label fw-semibold text-muted" for="kt_modal_update_customer_billing">
+                                            Yes
+                                        </span>
+                                        <!--end::Label-->
+                                    </label>
+                                    <!--end::Switch-->
+                                </div>
+                                <!--begin::Wrapper-->
+                            </div>
+                            <!--end::Input group-->
+                        </div>
+                        <!--end::Billing form-->
+                    </div>
+                    <!--end::Scroll-->
+                </div>
+                <!--end::Modal body-->
+
+                <!--begin::Modal footer-->
+                <div class="modal-footer flex-center">
+                    <!--begin::Button-->
+                    <button type="reset" id="kt_modal_update_customer_cancel" class="btn btn-light me-3">
+                        Discard
+                    </button>
+                    <!--end::Button-->
+
+                    <!--begin::Button-->
+                    <button type="submit" id="kt_modal_update_customer_submit" class="btn btn-primary">
+                        <span class="indicator-label">
+                            Submit
+                        </span>
+                        <span class="indicator-progress">
+                            Please wait... <span class="spinner-border spinner-border-sm align-middle ms-2"></span>
+                        </span>
+                    </button>
+                    <!--end::Button-->
+                </div>
+                <!--end::Modal footer-->
+            </form>
+            <!--end::Form-->
+        </div>
+    </div>
+</div>
+<!--end::Modal - New Address--><!--begin::Modal - New Card-->
+<div class="modal fade" id="kt_modal_new_card" tabindex="-1" aria-hidden="true">
+    <!--begin::Modal dialog-->
+    <div class="modal-dialog modal-dialog-centered mw-650px">
+        <!--begin::Modal content-->
+        <div class="modal-content">
+            <!--begin::Modal header-->
+            <div class="modal-header">
+                <!--begin::Modal title-->
+                <h2>Add New Card</h2>
+                <!--end::Modal title-->
+
+                <!--begin::Close-->
+                <div class="btn btn-sm btn-icon btn-active-color-primary" data-bs-dismiss="modal">
+                    <i class="ki-duotone ki-cross fs-1"><span class="path1"></span><span class="path2"></span></i>                </div>
+                <!--end::Close-->
+            </div>
+            <!--end::Modal header-->
+
+            <!--begin::Modal body-->
+            <div class="modal-body scroll-y mx-5 mx-xl-15 my-7">
+                <!--begin::Form-->
+                <form id="kt_modal_new_card_form" class="form fv-plugins-bootstrap5 fv-plugins-framework" action="#">
+                    <!--begin::Input group-->
+<div class="d-flex flex-column mb-7 fv-row fv-plugins-icon-container">
+    <!--begin::Label-->
+    <label class="d-flex align-items-center fs-6 fw-semibold form-label mb-2">
+        <span class="required">Name On Card</span>
+
+        
+<span class="ms-1" data-bs-toggle="tooltip" aria-label="Specify a card holder's name" data-bs-original-title="Specify a card holder's name" data-kt-initialized="1">
+	<i class="ki-duotone ki-information-5 text-gray-500 fs-6"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i></span>    </label>
+    <!--end::Label-->
+
+    <input type="text" class="form-control form-control-solid" placeholder="" name="card_name" value="Max Doe">
+<div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+<!--end::Input group-->
+
+<!--begin::Input group-->
+<div class="d-flex flex-column mb-7 fv-row fv-plugins-icon-container">
+    <!--begin::Label-->
+    <label class="required fs-6 fw-semibold form-label mb-2">Card Number</label>
+    <!--end::Label-->
+    
+    <!--begin::Input wrapper-->
+    <div class="position-relative">
+        <!--begin::Input-->
+        <input type="text" class="form-control form-control-solid" placeholder="Enter card number" name="card_number" value="4111 1111 1111 1111">
+        <!--end::Input-->
+
+        <!--begin::Card logos-->
+        <div class="position-absolute translate-middle-y top-50 end-0 me-5">
+            <img src="~/images/subscriper/@Model.ImgUrl" alt="" class="h-25px">
+        </div>
+        <!--end::Card logos-->
+    </div>
+    <!--end::Input wrapper-->
+<div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+<!--end::Input group-->
+
+<!--begin::Input group-->
+<div class="row mb-10">
+    <!--begin::Col-->
+    <div class="col-md-8 fv-row">
+        <!--begin::Label-->
+        <label class="required fs-6 fw-semibold form-label mb-2">Expiration Date</label>
+        <!--end::Label-->
+
+        <!--begin::Row-->
+        <div class="row fv-row fv-plugins-icon-container">
+            <!--begin::Col-->
+            <div class="col-6">
+                <select name="card_expiry_month" class="form-select form-select-solid select2-hidden-accessible" data-control="select2" data-hide-search="true" data-placeholder="Month" data-select2-id="select2-data-18-iln8" tabindex="-1" aria-hidden="true" data-kt-initialized="1">
+                    <option data-select2-id="select2-data-20-0ny0"></option>
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                            <option value="8">8</option>
+                                            <option value="9">9</option>
+                                            <option value="10">10</option>
+                                            <option value="11">11</option>
+                                            <option value="12">12</option>
+                                    </select><span class="select2 select2-container select2-container--bootstrap5" dir="ltr" data-select2-id="select2-data-19-7vei" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single form-select form-select-solid" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-card_expiry_month-be-container" aria-controls="select2-card_expiry_month-be-container"><span class="select2-selection__rendered" id="select2-card_expiry_month-be-container" role="textbox" aria-readonly="true" title="Month"><span class="select2-selection__placeholder">Month</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+            <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+            <!--end::Col-->
+
+            <!--begin::Col-->
+            <div class="col-6">
+                <select name="card_expiry_year" class="form-select form-select-solid select2-hidden-accessible" data-control="select2" data-hide-search="true" data-placeholder="Year" data-select2-id="select2-data-21-7sza" tabindex="-1" aria-hidden="true" data-kt-initialized="1">
+                    <option data-select2-id="select2-data-23-xvg7"></option>
+                                            <option value="2025">2025</option>
+                                            <option value="2026">2026</option>
+                                            <option value="2027">2027</option>
+                                            <option value="2028">2028</option>
+                                            <option value="2029">2029</option>
+                                            <option value="2030">2030</option>
+                                            <option value="2031">2031</option>
+                                            <option value="2032">2032</option>
+                                            <option value="2033">2033</option>
+                                            <option value="2034">2034</option>
+                                            <option value="2035">2035</option>
+                                    </select><span class="select2 select2-container select2-container--bootstrap5" dir="ltr" data-select2-id="select2-data-22-4kzb" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single form-select form-select-solid" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-card_expiry_year-dv-container" aria-controls="select2-card_expiry_year-dv-container"><span class="select2-selection__rendered" id="select2-card_expiry_year-dv-container" role="textbox" aria-readonly="true" title="Year"><span class="select2-selection__placeholder">Year</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+            <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+            <!--end::Col-->
+        </div>
+        <!--end::Row-->
+    </div>
+    <!--end::Col-->
+
+    <!--begin::Col-->
+    <div class="col-md-4 fv-row fv-plugins-icon-container">
+        <!--begin::Label-->
+        <label class="d-flex align-items-center fs-6 fw-semibold form-label mb-2">
+            <span class="required">CVV</span>
+
+            
+<span class="ms-1" data-bs-toggle="tooltip" aria-label="Enter a card CVV code" data-bs-original-title="Enter a card CVV code" data-kt-initialized="1">
+	<i class="ki-duotone ki-information-5 text-gray-500 fs-6"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i></span>        </label>
+        <!--end::Label-->
+
+        <!--begin::Input wrapper-->
+        <div class="position-relative">
+            <!--begin::Input-->
+            <input type="text" class="form-control form-control-solid" minlength="3" maxlength="4" placeholder="CVV" name="card_cvv">
+            <!--end::Input-->
+
+            <!--begin::CVV icon-->
+            <div class="position-absolute translate-middle-y top-50 end-0 me-3">
+                <i class="ki-duotone ki-credit-cart fs-2hx"><span class="path1"></span><span class="path2"></span></i>            </div>
+            <!--end::CVV icon-->
+        </div>
+        <!--end::Input wrapper-->
+    <div class="fv-plugins-message-container fv-plugins-message-container--enabled invalid-feedback"></div></div>
+    <!--end::Col-->
+</div>
+<!--end::Input group-->
+
+<!--begin::Input group-->
+<div class="d-flex flex-stack">
+    <!--begin::Label-->
+    <div class="me-5">
+        <label class="fs-6 fw-semibold form-label">Save Card for further billing?</label>
+        <div class="fs-7 fw-semibold text-muted">If you need more info, please check budget planning</div>
+    </div>
+    <!--end::Label-->
+
+    <!--begin::Switch-->
+    <label class="form-check form-switch form-check-custom form-check-solid">
+        <input class="form-check-input" type="checkbox" value="1" checked="checked">
+        <span class="form-check-label fw-semibold text-muted">
+            Save Card
+        </span>
+    </label>
+    <!--end::Switch-->
+</div>
+<!--end::Input group-->
+
+
+                    <!--begin::Actions-->
+                    <div class="text-center pt-15">
+                        <button type="reset" id="kt_modal_new_card_cancel" class="btn btn-light me-3">
+                            Discard
+                        </button>
+
+                        <button type="submit" id="kt_modal_new_card_submit" class="btn btn-primary">
+                            <span class="indicator-label">
+                                Submit
+                            </span>
+                            <span class="indicator-progress">
+                                Please wait... <span class="spinner-border spinner-border-sm align-middle ms-2"></span>
+                            </span>
+                        </button>
+                    </div>
+                    <!--end::Actions-->
+                </form>
+                <!--end::Form-->
+            </div>
+            <!--end::Modal body-->
+        </div>
+        <!--end::Modal content-->
+    </div>
+    <!--end::Modal dialog-->
+</div>
+<!--end::Modal - New Card--><!--end::Modals-->        </div>
+        <!--end::Content container-->
+    </div>
+<!--end::Content-->	
+
+                                    </div>
+                <!--end::Content wrapper-->
+
+                                    
+<!--begin::Footer-->
+<div id="kt_app_footer" class="app-footer ">
+
+    
+
+            <!--begin::Footer container-->
+        <div class="app-container  container-fluid d-flex flex-column flex-md-row flex-center flex-md-stack py-3 ">
+      
+
+<!--begin::Menu-->
+<!--end::Menu-->        </div>
+        <!--end::Footer container-->
+    </div>
+<!--end::Footer--> 
+</div>
+<style>
+
+    .bg-info {
+        --kt-bg-rgb-color: var(--kt-info-rgb);
+        background-color: @(Model.subcribtions.Last().Status == SubcribtionStatus.Active ? "green" : Model.subcribtions.Last().Status == SubcribtionStatus.NotStart ? "blueviolet" : "#999519") !important;
+    }
+</style>

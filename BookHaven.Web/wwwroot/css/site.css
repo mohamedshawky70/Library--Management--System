@@ -1,0 +1,70 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*Start enhanced BootBox js*/
+.modal-header{
+    background-color:cornflowerblue;
+    height:-2px;
+}
+/*End enhanced BootBox js*/
+
+.dt-paging-button current{
+    background-color:red;
+}
+
+.Edit_Status:hover {
+    background-color: white;
+}
+.GlassEffect {
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: fit-content;
+    padding: 24px;
+}
+.BookHaven {
+    font-family: "Playwrite IN", serif;
+}
+.page-bg {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../mecatronic/img/page-bg.jpg');
+}
+.launcher .sidebar {
+    position: fixed;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 425px;
+    top: 50px;
+    right: 50px;
+    bottom: 50px;
+    background-color: rgba(19, 0, 97, .3);
+    border-radius: 1.75rem;
+}

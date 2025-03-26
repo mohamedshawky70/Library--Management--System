@@ -1,0 +1,71 @@
+﻿@model UserFormVM
+
+@{
+    ViewData["Title"] = Model == null ? "Add User" : "Edite User";
+    SelectList Roles = new SelectList(ViewBag.Roles, "Name", "Name");
+}
+
+<div class="card shadow-sm ">
+    <div class="card-header">
+
+        <span style="padding-left: 10px; padding-top: 20px;" class="menu-title">
+            <!--begin::Svg Icon | path: /var/www/preview.keenthemes.com/kt-products/docs/metronic/html/releases/2022-09-15-053640/core/html/src/media/icons/duotune/communication/com005.svg-->
+            <i class="bi bi-people-fill fs-1 text-primary"></i>
+            <!--end::Svg Icon-->
+            <span style="padding-left: 5px;font-size: 18px;" class="mt-10">@(Model == null ? "Add User" : "Edite User")</span>
+        </span>
+    </div>
+    <div class="card-body col-6">
+        <form method="post" asp-controller="Users" asp-action=@(Model==null?"Create":"Edite") id="UserForm">
+                    <div class="mb-3 col">
+                        <label asp-for="FullName" class="form-label"></label>
+                <input asp-for="FullName" type="text" class="form-control form-control-solid " placeholder="FullName">
+                        <div><span class="text-danger" asp-validation-for="FullName"></span></div>
+                    </div>
+                    <div class="mb-3 col">
+                        <label asp-for="UserName" class="form-label"></label>
+                        <input asp-for="UserName" type="text" class="form-control form-control-solid " placeholder="Publisher">
+                        <div><span class="text-danger" asp-validation-for="UserName"></span></div>
+                    </div>
+                    <div class="mb-3 col">
+                        <label asp-for="RolesId" class="form-label">Select Role</label>
+                        <select asp-for="RolesId" asp-items="Roles" class="form-select form-select-solid Js_select2" data-placeholder="Select Role">
+                        <option value=""></option>
+                        </select>
+                    <div><span class="text-danger" asp-validation-for="FullName"></span></div>
+                    </div>
+                    <div class="mb-3 col">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" type="text" class="form-control form-control-solid " />
+                        <div><span class="text-danger" asp-validation-for="Email"></span></div>
+                    </div>
+                    @if (Model== null)
+                    {
+                        <div class="mb-3 col">
+                            <label asp-for="Password" class="form-label"></label>
+                            <input asp-for="Password" type="text" class="form-control form-control-solid " placeholder="Password">
+                            <div><span class="text-danger" asp-validation-for="Password"></span></div>
+                        </div>
+                        <div class="mb-3 col">
+                            <label asp-for="ConfirmPassword" class="form-label"></label>
+                            <input asp-for="ConfirmPassword" type="text" class="form-control form-control-solid " placeholder="ConfirmPassword">
+                            <div><span class="text-danger" asp-validation-for="ConfirmPassword"></span></div>
+                        </div>
+                    }
+
+               
+            
+        </form>
+
+    </div>
+    <div class="card-footer">
+        <button type="submit" class="btn btn-primary" form="UserForm"><i class="bi bi-check2-all fs-3"></i>Save</button>
+        <a class="btn btn-light text-primary m-3" asp-controller="Users" asp-action="Index">Cancel</a>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/site.js"></script>
+}
+

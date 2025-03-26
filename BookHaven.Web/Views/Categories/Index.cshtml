@@ -1,0 +1,196 @@
+﻿
+@model IEnumerable<CategoryVM>
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<div class="card card-flush shadow-sm">
+ 
+    <div class="card-header">
+        <h3 class="card-title">
+            <span  class="menu-title">
+                <i class="bi bi-stack fs-3 text-primary"></i>
+                <span style="padding-left: 10px;">Categories</span>
+            </span>
+           
+            </h3>
+        <div class="card-toolbar">
+            <a class="btn btn-sm btn-success fs-5" asp-controller="Categories" asp-action="Create" >
+                <img src="~/mecatronic/img/add1.png" style="width: 19px;position: relative;left: -5px;top: -2px;" />
+                Create
+            </a>
+        </div>
+    </div>
+    @* Star search and export card *@
+    <div class="card card-bordered">
+        <div class="card-header">
+            <h3 class="card-title">
+                <!--begin::Search-->
+                <div class="d-flex align-items-center position-relative my-1">
+                    <input type="text" data-kt-filter="search" class="form-control form-control-solid w-250px ps-5" placeholder="Search..." />
+                </div>
+                <!--end::Search-->
+
+            </h3>
+            
+            <div class="card-toolbar flex-row-fluid justify-content-end gap-5">
+                <!--begin::Export dropdown-->
+                <button type="button" class="btn btn-light-primary" data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end">
+                    <i class="bi bi-box-arrow-down"></i>
+                    Export Report
+                </button>
+                <!--begin::Menu-->
+                <div id="kt_datatable_example_export_menu" class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-600 menu-state-bg-light-primary fw-semibold fs-7 w-200px py-4" data-kt-menu="true">
+                    <!--begin::Menu item-->
+                    <div class="menu-item px-3">
+                        <a href="#" class="menu-link px-3" data-kt-export="copy">
+                            Copy to clipboard
+                        </a>
+                    </div>
+                    <!--end::Menu item-->
+                    <!--begin::Menu item-->
+                    <div class="menu-item px-3">
+                        <a href="#" class="menu-link px-3" data-kt-export="excel">
+                            Export as Excel
+                        </a>
+                    </div>
+                    <!--end::Menu item-->
+                    <!--begin::Menu item-->
+                    <div class="menu-item px-3">
+                        <a href="#" class="menu-link px-3" data-kt-export="csv">
+                            Export as CSV
+                        </a>
+                    </div>
+                    <!--end::Menu item-->
+                    <!--begin::Menu item-->
+                    <div class="menu-item px-3">
+                        <a href="#" class="menu-link px-3" data-kt-export="pdf">
+                            Export as PDF
+                        </a>
+                    </div>
+                    <!--end::Menu item-->
+                </div>
+                <!--begin::Hide default export buttons-->
+                <div id="kt_datatable_example_buttons" class="d-none"></div>
+                <!--end::Hide default export buttons->
+                    </div>
+                </div>
+                <div class="card-body">
+                <!--end::Menu-->
+                <!--end::Export dropdown-->
+                </button>
+            </div>
+        </div>
+        @* Star search and export card *@
+    <div class="card-body py-5">
+        @if(Model.Any())
+        {
+            <div class="table-responsive">
+                <table id="kt_datatable_example" class="table table-striped">
+                    @* table is class name of dataTable *@
+                    <thead>
+                        <tr class="fw-semibold fs-6 text-gray-800 border-bottom-2 border-gray-200">
+                            <th>Name</th>
+                            <th>Status</th>
+                            <th>Created On</th>
+                            <th>Last Updated On</th>
+                            <th class="Action">Action</th> @*  Don'tExport *@
+                        </tr>
+                    </thead>
+                    <tbody>  
+                            @foreach (var category in Model)
+                            {
+                              
+                                <tr>
+                                    <td>@category.Name</td>
+                                    <td>
+                                    <span class="badge text-bg-@(category.IsDeleted?"danger":"success")  ColorStatus">
+                                        @(category.IsDeleted?"Deleted":"Available")
+                                    </span>
+                                    </td>
+                                    <td>@category.CreatedOn</td>
+                                    <td class="LastUpdate" id="@category.Id">@category.LastUpdatedOn</td> @* ///////////// *@
+                                    <div class="w-30">
+                                        
+                                        <td>
+                                    <button type="button" class="btn btn-sm btn-icon btn-color-primary btn-active-light-primary" data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end">
+                                        <!--begin::Svg Icon | path: icons/duotune/general/gen024.svg-->
+                                        <span class="svg-icon svg-icon-2">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24">
+                                                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <rect x="5" y="5" width="5" height="5" rx="1" fill="currentColor"></rect>
+                                                    <rect x="14" y="5" width="5" height="5" rx="1" fill="currentColor" opacity="0.3"></rect>
+                                                    <rect x="5" y="14" width="5" height="5" rx="1" fill="currentColor" opacity="0.3"></rect>
+                                                    <rect x="14" y="14" width="5" height="5" rx="1" fill="currentColor" opacity="0.3"></rect>
+                                                </g>
+                                            </svg>
+                                        </span>
+                                        <!--end::Svg Icon-->
+                                    </button>
+
+                                    <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold w-200px py-3" data-kt-menu="true" style="z-index: 107;">
+                                        
+                                        <!--begin::Menu item-->
+                                        <div class="menu-item px-3  Edit_Status">
+                                            <a asp-controller="Categories" asp-action="Edite" asp-route-id="@category.Id" class="menu-link px-3">
+                                                <i class="bi bi-pencil-square fs-4"></i>
+                                                Edite
+                                                </a>
+                                        </div>
+                                        <!--end::Menu item-->
+                                      
+                                        <!--begin::Menu item-->
+                                            <div class="menu-item px-3 my-1 Edit_Status">
+                                                <a href="#" class="menu-link px-3 Js-StatusToggle" data-url="/Categories/ToggleStatus/@category.Id"><i class="bi bi-trash fs-3"></i>Toggle Status</a>
+                                        </div>
+                                        <!--end::Menu item-->
+                                    </div>
+
+                                        </td>
+              
+                                </tr>
+                            }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <!--begin::Alert-->
+            <div class="alert alert-warning d-flex align-items-center p-5">
+                <!--begin::Icon-->
+                <i class="ki-duotone ki-shield-tick fs-2hx text-success me-4"><span class="path1"></span><span class="path2"></span></i>
+                <!--end::Icon-->
+                <!--begin::Wrapper-->
+                <div class="d-flex flex-column">
+                    <!--begin::Title-->
+                    <h4 class="mb-1 text-dark"><i style="padding-right:10px" class="bi bi-exclamation-circle fs-3 text-warning"></i>No categories founded!</h4>
+                    <!--end::Title-->
+                </div>
+                <!--end::Wrapper-->
+            </div>
+            <!--end::Alert-->
+        }
+    </div>
+    
+</div>
+
+@* render data table when iam her only (Index Category)  *@
+@section DataTableCss {
+    <link href="~/mecatronic/css/datatables.bundle.css" rel="stylesheet" />
+    
+}
+@section DataTableJs {
+    <script src="~/mecatronic/js/datatables.bundle.js"></script>
+
+
+}
+
+@* Change in db ,change color ,change text , change time update *@
+@section Scripts{
+    <script src="~/js/indexcategory.js" asp-append-version="true"></script> @* //appent new version when modify *@
+    <partial name="_ValidationScriptsPartial"/>
+
+}
+<link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/centerpagination.css" rel="stylesheet" />

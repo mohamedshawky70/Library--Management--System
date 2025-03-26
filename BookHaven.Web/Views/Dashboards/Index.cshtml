@@ -1,0 +1,295 @@
+﻿@model DashboardVM
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<div class="d-flex flex-column flex-column-fluid" style="width: 1155px;position: relative;top: -38px;">
+
+    <!--begin::Toolbar-->
+    <div id="kt_app_toolbar" class="app-toolbar  py-3 py-lg-6 ">
+
+        <!--begin::Toolbar container-->
+        <div id="kt_app_toolbar_container" class="app-container  container-xxl d-flex flex-stack ">
+
+            <!--begin::Page title-->
+            <div class="page-title d-flex flex-column justify-content-center flex-wrap me-3 ">
+                <!--begin::Title-->
+                <img src="~/mecatronic/img/dashboard2.png" style="width: 20px;position: relative;top: 21px;" />
+                <h1 style="padding-left: 24px;" class="page-heading d-flex text-gray-900 fw-bold fs-3 flex-column justify-content-center my-0">
+                     Dashboard
+                </h1>
+                <!--end::Title-->
+            </div>
+            <!--end::Page title-->
+        </div>
+        <!--end::Toolbar container-->
+    </div>
+    <!--end::Toolbar-->
+    <!--begin::Content-->
+    <div id="kt_app_content" class="app-content  flex-column-fluid ">
+        <!--begin::Content container-->
+        <div id="kt_app_content_container" class="app-container  container-xxl ">
+            <!--begin::Row-->
+            <div class="row g-5 gx-xl-10 mb-5 mb-xl-10">
+                <!--begin::Col-->
+                <div class="col-12">
+                    <!--begin::Engage widget 6-->
+                    <div class="card flex-grow-1 bgi-no-repeat bgi-size-contain bgi-position-x-end h-xl-100" style="background-size: 1056px  312px;background-image:url('/Images/Book/Dashboard.png')">
+                        <!--begin::Body-->
+                        <div class="card-body d-flex justify-content-between flex-column ps-xl-18">
+                            <!--begin::Heading-->
+                            <div class="mb-20 pt-xl-13 GlassEffect">
+                                <!--begin::Title-->
+                                <h3 class="fw-bold text-white fs-4x mb-5 ms-n1 BookHaven">BookHaven</h3>
+                                <!--end::Title-->
+                                <!--begin::Description-->
+                                <span class="fw-bold text-white fs-4 mb-8 d-block lh-0">Books are the best friends you will never meet</span>
+                                <!--end::Description-->
+                                <!--begin::Items-->
+                                <div class="d-flex align-items-center">
+                                    <!--begin::Item-->
+                                    <div class="d-flex align-items-center me-6">
+                                        <!--begin::Info-->
+                                        <div style="padding-right: 6px;color: gray;position: relative;top: -2px;">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 122.88 101.37" style="color: #ffffff; enable-background:new 0 0 122.88 101.37" xml:space="preserve" width="20px" height="20px">
+                                            <g>
+                                            <path d="M12.64,77.27l0.31-54.92h-6.2v69.88c8.52-2.2,17.07-3.6,25.68-3.66c7.95-0.05,15.9,1.06,23.87,3.76 c-4.95-4.01-10.47-6.96-16.36-8.88c-7.42-2.42-15.44-3.22-23.66-2.52c-1.86,0.15-3.48-1.23-3.64-3.08 C12.62,77.65,12.62,77.46,12.64,77.27L12.64,77.27z M103.62,19.48c-0.02-0.16-0.04-0.33-0.04-0.51c0-0.17,0.01-0.34,0.04-0.51V7.34 c-7.8-0.74-15.84,0.12-22.86,2.78c-6.56,2.49-12.22,6.58-15.9,12.44V85.9c5.72-3.82,11.57-6.96,17.58-9.1 c6.85-2.44,13.89-3.6,21.18-3.02V19.48L103.62,19.48z M110.37,15.6h9.14c1.86,0,3.37,1.51,3.37,3.37v77.66 c0,1.86-1.51,3.37-3.37,3.37c-0.38,0-0.75-0.06-1.09-0.18c-9.4-2.69-18.74-4.48-27.99-4.54c-9.02-0.06-18.03,1.53-27.08,5.52 c-0.56,0.37-1.23,0.57-1.92,0.56c-0.68,0.01-1.35-0.19-1.92-0.56c-9.04-4-18.06-5.58-27.08-5.52c-9.25,0.06-18.58,1.85-27.99,4.54 c-0.34,0.12-0.71,0.18-1.09,0.18C1.51,100.01,0,98.5,0,96.64V18.97c0-1.86,1.51-3.37,3.37-3.37h9.61l0.06-11.26 c0.01-1.62,1.15-2.96,2.68-3.28l0,0c8.87-1.85,19.65-1.39,29.1,2.23c6.53,2.5,12.46,6.49,16.79,12.25 c4.37-5.37,10.21-9.23,16.78-11.72c8.98-3.41,19.34-4.23,29.09-2.8c1.68,0.24,2.88,1.69,2.88,3.33h0V15.6L110.37,15.6z M68.13,91.82c7.45-2.34,14.89-3.3,22.33-3.26c8.61,0.05,17.16,1.46,25.68,3.66V22.35h-5.77v55.22c0,1.86-1.51,3.37-3.37,3.37 c-0.27,0-0.53-0.03-0.78-0.09c-7.38-1.16-14.53-0.2-21.51,2.29C79.09,85.15,73.57,88.15,68.13,91.82L68.13,91.82z M58.12,85.25 V22.46c-3.53-6.23-9.24-10.4-15.69-12.87c-7.31-2.8-15.52-3.43-22.68-2.41l-0.38,66.81c7.81-0.28,15.45,0.71,22.64,3.06 C47.73,78.91,53.15,81.64,58.12,85.25L58.12,85.25z" fill="currentColor"></path>
+                                         </g>
+                                        </svg>
+                                        </div>
+                                        <span class="fw-semibold text-white fs-6">
+                                            @Model.BookAndCopies+ book</span>
+                                        <!--end::Info-->
+                                    </div>
+                                    <!--end::Item-->
+                                    <!--begin::Item-->
+                                    <div class="d-flex align-items-center">
+                                        <!--begin::Info-->
+                                        <span class="fw-semibold text-white fs-6"><i class="bi bi-people fs-2 me-2 text-white"></i>@Model.subscribers subscriber</span>
+                                        <!--end::Info-->
+                                    </div>
+                                    <!--end::Item-->
+                                </div>
+                                <!--end::Items-->
+                            </div>
+                            <!--end::Heading-->
+                        </div>
+                        <!--end::Body-->
+                    </div>
+                    <!--end::Engage widget 6-->
+
+                </div>
+                <!--end::Col-->
+            </div>
+            <!--end::Row-->
+            <!--begin::Row-->
+            <div class="row g-5 g-xl-10 mb-5 mb-xl-10">
+                <!--begin::Col-->
+                <div class="col-xl-8">
+                    <!--begin::Player widget 1-->
+                    <div class="card card-flush h-xl-100">
+                        <!--begin::Header-->
+                        <div class="card-header pt-7">
+                            <!--begin::Title-->
+                            <h3 class="card-title align-items-start flex-column">
+                                <span class="card-label fw-bold text-gray-900">Recently Added Books</span>
+                            </h3>
+                            <!--end::Title-->
+                            <!--begin::Toolbar-->
+                        </div>
+                        <!--end::Header-->
+                        <!--begin::Card body-->
+                        <div class="card-body pt-7">
+                            <!--begin::Row-->                            
+                            <div class="row g-5 g-xl-9 mb-5 mb-xl-9">
+                            @foreach (var book in Model.ListAddedBooks)
+                            {
+                                <!--begin::Col-->
+                                <div class="col-sm-3 mb-3 mb-sm-0">
+                                    <!--begin::Player card-->
+                                    <div class="m-0">
+                                        <!--begin::User pic-->
+                                        <div class="card-rounded position-relative mb-5">
+                                            <!--begin::Img-->
+                                            <div class="bgi-position-center bgi-no-repeat bgi-size-cover h-200px card-rounded" style="background-image:url(Images/Book/@book.Img)">
+                                            </div>
+                                            <!--end::Img-->
+                                        </div>
+                                        <!--end::User pic-->
+                                        <!--begin::Info-->
+                                        <div class="m-0">
+                                            <!--begin::Title-->
+                                            <h5 class="text-gray-800 text-hover-primary fs-3 fw-bold d-block mb-2">@book.Title</h5>
+                                            <!--end::Title-->
+
+                                            <span class="fw-bold fs-6 text-gray-500 d-block lh-1">@book.Author</span>
+                                        </div>
+                                        <!--end::Info-->
+                                    </div>
+                                    <!--end::Player card-->
+                                </div>
+                                <!--end::Col-->
+                            }
+                            </div>
+                            
+                            <!--end::Row-->
+                        </div>
+                        <!--end::Card body-->
+                    </div>
+                    <!--end::Player widget 1-->
+
+                </div>
+                <!--end::Col-->
+                <!--begin::Col-->
+<div class="col-xl-4">
+
+    <!--begin::List widget 24-->
+    <div class="card h-xl-100" id="kt_list_widget_24">
+        <!--begin::Header-->
+        <div class="card-header border-0 pt-5">
+            <h3 class="card-title align-items-start flex-column">
+                <span class="card-label fw-bold text-gray-800">Top Books Rental</span>
+            </h3>
+        </div>
+        <!--end::Header-->
+        <!--begin::Body-->
+        <div class="card-body pt-6">
+            <!--begin::Item-->
+            @foreach (var book in Model.TopBooks)
+            {
+            <div class="d-flex flex-stack">
+                <!--begin::Symbol-->
+                <div class="symbol symbol symbol-60px me-4">
+                   <img src="Images/Book/@book.Img" alt="@book.Title">
+                </div>
+                <!--end::Symbol-->
+                <!--begin::Section-->
+                <div class="d-flex align-items-center flex-row-fluid flex-wrap">
+                    <!--begin:Author-->
+                    <div class="flex-grow-1 me-2">
+                        <h5 class="text-gray-800 text-hover-primary fs-5 fw-bolder">@book.Title</h5>
+                        <span class="text-gray-500 fw-semibold d-block fs-6">@book.Author</span>
+                    </div>
+                    <!--end:Author-->
+                </div>
+                <!--end::Section-->
+            </div>
+            <!--end::Item-->
+            @if(Model.TopBooks.Last()!=book)
+            {
+                <!--begin::Separator-->
+                <div class="separator separator-dashed my-5"></div>
+                <!--end::Separator-->
+            }
+        }
+        </div>
+        <!--end::Body-->
+    </div>
+    <!--end::List widget 24-->
+</div>
+<!--end::Col-->
+</div>
+            <!--end::Row-->
+
+            <!--begin::Row-->
+            <div class="row g-5 g-xl-10">
+                <!--begin::Col-->
+                <div class="col-xl-8">
+
+                    <!--begin::Table widget 13-->
+                    <div class="card card-flush h-xl-100">
+                        <!--begin::Header-->
+                        <div class="card-header pt-7">
+                            <!--begin::Title-->
+                            <h3 class="card-title align-items-start flex-column">
+                                <span class="card-label fw-bold text-gray-800">Rentals Per Day</span>
+
+                                <span class="text-gray-500 mt-1 fw-semibold fs-6">Last 30 Day</span>
+                            </h3>
+                            <!--end::Title-->
+                        </div>
+                        <!--end::Header-->
+                        <!--begin::Body-->
+                        <div class="card-body pt-3 pb-4">
+                            <!--begin::Table container-->
+                            <div class="table-responsive">
+                                <!--begin::Table-->
+                                <table class="table table-row-dashed align-middle gs-0 gy-4 my-0">
+                                 
+                                    <!--begin::Table body-->
+                                    <tbody>
+                                        <div id="kt_apexcharts_3" style="height: 350px;"></div>
+                                    </tbody>
+                                    <!--end::Table body-->
+                                </table>
+                            </div>
+                            <!--end::Table container-->
+                        </div>
+                        <!--end: Card Body-->
+                    </div>
+                    <!--end::Table widget 13-->
+                </div>
+                <!--end::Col-->
+                <!--begin::Col-->
+                <div class="col-xl-4">
+
+                    <!--begin::Chart Widget 34-->
+                    <div class="card card-flush h-xl-100">
+                        <!--begin::Header-->
+                        <div class="card-header pt-5 mb-6">
+                            <!--begin::Title-->
+                            <h3 class="card-title align-items-start flex-column">
+                                <!--begin::Statistics-->
+                                <div class="d-flex align-items-center mb-2">
+                                    <!--begin::Currency-->
+                                    <span class="fs-3 fw-semibold text-gray-500 align-self-start me-1"></span>
+                                    <!--end::Currency-->
+                                    <!--begin::Value-->
+                                    <span class="card-label fw-bold text-gray-800">Subscribers Per City</span>
+                                    <!--end::Value-->
+                                </div>
+                                <!--end::Statistics-->
+                            </h3>
+                            <!--end::Title-->
+                        </div>
+                        <!--end::Header-->
+                        <!--begin::Body-->
+                        <div class="card-body py-0 px-0">
+                            <!--begin::Tab Content-->
+                            <div class="tab-content mt-n6">
+                                <!--begin::Tap pane-->
+                                <div class="tab-pane fade active show" id="kt_charts_widget_34_tab_content_1" role="tabpanel" aria-labelledby="kt_charts_widget_34_tab_1">
+                                    <!--begin::Chart-->
+                                    <div id="kt_charts_widget_34_chart_1" data-kt-chart-color="info" class="min-h-auto h-200px ps-3 pe-6" style="padding-top: 42px;" min-height: 215px;">
+                                        <canvas id="kt_chartjs_3" class="mh-400px"></canvas>
+                                    </div>
+                                    <!--end::Chart-->
+                                    <!--begin::Table container-->
+                                    <div class="table-responsive mx-9 mt-n6">
+
+                                    </div>
+                                    <!--end::Table container-->
+                                </div>
+                                <!--end::Tap pane-->
+                             
+                                        
+
+                            </div>
+                            <!--end::Tab Content-->
+                        </div>
+                        <!--end::Body-->
+                    </div>
+                    <!--end::Chart Widget 34-->
+                </div>
+                <!--end::Col-->
+            </div>
+            <!--end::Row-->
+        </div>
+        <!--end::Content container-->
+    </div>
+    <!--end::Content-->
+
+</div>
+@section Scripts{
+        <script src="~/js/dashboardcharts.js"></script>
+}
+<link href="~/css/site.css" rel="stylesheet" />

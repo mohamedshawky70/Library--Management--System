@@ -1,0 +1,89 @@
+﻿@model SearchVM
+@{
+    ViewData["Title"] = "Search Subscriber";
+}
+<div class="card mb-7">
+    <div class="card-header" >
+        <div class="card-title" >
+            <img src="~/images/subscriper/reading1.png" style="width: 24px;position: relative;left: -3px;" />
+            <h3>Search subscriber</h3>
+        </div>
+    </div>
+    <form method="post" asp-controller="Subscripers" asp-action="Srearch">
+        <div class="card mb-7">
+            <!--begin::Card body-->
+            <div class="card-body">
+                <!--begin::Compact form-->
+                <div class="d-flex align-items-center">
+                    <!--begin::Input group-->
+                    <div class="position-relative w-md-400px me-md-2">
+                        <i class="ki-duotone ki-magnifier fs-3 text-gray-500 position-absolute top-50 translate-middle ms-6"><span class="path1"></span><span class="path2"></span></i>
+                        <input type="text" asp-for="value" class="form-control form-control-solid ps-10" value="" placeholder="Search by Email, Namtional Id, Phone Number">
+                    </div>
+                    <!--end::Input group-->
+                    <!--begin:Action-->
+                    <div class="d-flex align-items-center">
+                        <button type="submit"  class="btn btn-info">Search</button>
+                    </div>
+                    <!--end:Action-->
+                </div>             
+            </div>
+            <div class="card-body">
+                @if (Model?.FullName is null && Model?.value!=null)
+                {
+                    <!--begin::Alert-->
+                    <div class="alert alert-warning d-flex align-items-center p-5">
+                        <!--begin::Icon-->
+                        <i class="ki-duotone ki-shield-tick fs-2hx text-success me-4"><span class="path1"></span><span class="path2"></span></i>
+                        <!--end::Icon-->
+                        <!--begin::Wrapper-->
+                        <div class="d-flex flex-column">
+                            <!--begin::Title-->
+                            <h4 class="mb-1 text-dark"><i style="padding-right:10px" class="bi bi-exclamation-circle fs-3 text-warning"></i>No subscriber for this value!</h4>
+                            <!--end::Title-->
+                        </div>
+                        <!--end::Wrapper-->
+                    </div>
+                    <!--end::Alert-->
+                    <a asp-controller="Subscripers" asp-action="Create" class="btn btn-primary">
+                        <img src="~/mecatronic/img/add-friend.png" style="width: 19px;position: relative;left: 0px;top: -3px;" />
+                        Create
+                        </a>
+
+                }
+                else if (Model?.FullName != null)
+                {
+                    <div class="col-md-6 col-xl-12 col-xxl-6">
+                        <!--begin::Card-->
+                        <div class="card" style="width: 401px;top: -34px;">
+                            <!--begin::Card body-->
+                            <div class="card-body d-flex flex-center flex-column pt-12 p-9" style="background-color: #f3f6f9;border-radius: 10px;">
+                                <!--begin::Avatar-->
+                                <div class="symbol symbol-100px">
+                                    <img src="/images/subscriper/@Model.ImgUrl" alt="image">
+                                </div>
+                                <!--end::Avatar-->
+                                <!--begin::Name-->
+                                <a asp-action="Details" asp-controller="Subscripers" asp-route-id="@Model.Id" class="fs-4 text-gray-800 text-hover-primary fw-bold mb-0">@Model.FullName</a>
+                                <!--end::Name-->
+                                <!--begin::Position-->
+                                <div class="fw-semibold text-gray-500 mb-6"><i class="bi bi-envelope me-2"></i>@Model.Email</div>
+                                <!--end::Position-->
+                               
+
+                            </div>
+                            <!--end::Card body-->
+                        </div>
+                        <!--end::Card-->
+                    </div>
+                }
+            </div>
+        </div>
+    </form>
+
+    </div>
+
+    @section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+    }

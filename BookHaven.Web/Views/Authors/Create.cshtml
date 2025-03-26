@@ -1,0 +1,29 @@
+﻿@model AuthorFormVM
+
+@{
+    ViewData["Title"] = Model == null ? "Add Author" : "Edite Author";
+}
+
+
+<div class="card shadow-sm">
+    <div class="card-header">
+        <h3 class="card-title"> @(Model == null ? "Add Author" : "Edite Author")</h3>
+    </div>
+    <div class="card-body row">
+        <form method="post" asp-controller="Authors" asp-action=@(Model==null?"Create":"Edite")>
+            <div class="mb-3 col-4">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" type="text" class="form-control" placeholder="Name">
+                <div><span class="text-danger" asp-validation-for="Name"></span></div>
+            </div>
+            <button type="submit" class="btn btn-primary"><i class="bi bi-check2-all fs-3"></i>Save</button>
+        </form>
+
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_validationscriptspartial" />
+}
+
+

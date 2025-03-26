@@ -1,0 +1,147 @@
+﻿@model SubscriperFormVM
+@{
+    ViewData["Title"] = Model == null ? "Add Subscriper" : "Edite Subscriper";
+    SelectList GovernoretesList = new SelectList(ViewBag.Governoretes, "Id", "Name");
+    SelectList AreasList = new SelectList(ViewBag.Areas, "Id", "Name");
+}
+
+
+<div class="card shadow-sm">
+    <div class="card-header">
+        <div>
+            <img src="~/images/subscriper/reading1.png" style="width: 24px;position: relative;left: -3px;top: 19px;" />
+            <h3 style="position: relative;left: 30px;top: -5px;" class="card-title">
+                @(Model == null ? "Add Subscriper" : "Edite Subscriper")
+            </h3>
+        </div>
+    </div>
+     <div class="card-body row">
+        <form method="post" id="sub" asp-controller="Subscripers" asp-action=@(Model==null?"Create":"Edite") enctype="multipart/form-data">
+            <!--begin::Image input-->
+            @if(Model != null)
+            {
+                <input asp-for="Id" type="hidden"/>
+                <input asp-for="ImgUrl" type="hidden"/>
+            }
+            <label asp-for="Img" class="form-label col-4" style="position: relative;top: -111px;">Image</label>
+            <div class="image-input image-input-outline mb-4" data-kt-image-input="true">
+                <!--begin::Image preview wrapper-->
+                  <div class="image-input-wrapper w-130px h-130px" style="background-image: url(@(Model?.ImgUrl != null ? $"/Images/subscriper/{Model.ImgUrl}" : "/Images/subscriper/default.png"))"></div>
+                 <!--end::Image preview wrapper-->
+                <!--begin::Edit button-->
+                <label class="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow"
+                       data-kt-image-input-action="change"
+                       title="Change avatar">
+                    <i class="bi bi-pen"></i>
+                    <!--begin::Inputs-->
+                    <input type="file" asp-for="Img"  accept=".png, .jpg, .jpeg" />
+                    <input type="hidden" name="avatar_remove" />
+                    <!--end::Inputs-->
+                </label>
+                <!--end::Edit button-->
+                <!--begin::Cancel button-->
+                <span class="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow"
+                      data-kt-image-input-action="cancel"
+                      title="Cancel avatar">
+                    <i class="bi bi-x-circle fs-3"></i>
+                </span>
+                <!--end::Cancel button-->
+                <!--begin::Remove button-->
+                @* <span class="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow"
+                data-kt-image-input-action="remove"
+                title="Remove avatar">
+                <i class="bi bi-x-circle fs-4"></i>
+                </span> *@
+                <!--end::Remove button-->
+
+            </div>
+            <div>
+                <span class="text-danger" asp-validation-for="Img" style="position: relative;left: 351px;top: -17px;"></span>
+            </div>
+            <!--end::Image input-->
+            <div class="form-text mb-5" style="position: relative;left: 353px;">
+                Allowed file types:jpg , jpeg ,png and max size in 2MB
+            </div>
+
+            <div class="mb-3 col-4">
+                <label asp-for="FName" class="form-label" style="position: relative;top: 17px;">Full Name</label>
+
+                <input asp-for="FName" type="text" class="form-control form-control-solid" style="position: relative;  left: 352px; top: -21px;" placeholder="First Name">
+                <div>
+                    <span class="text-danger" asp-validation-for="FName" style="position: relative;left: 358px;top: -14px;"></span>
+                </div>
+                
+                <input asp-for="LName" type="text" class="form-control form-control-solid" style="position: relative;top: -65px;left: 716px;" placeholder="Last Name">
+                <div>
+                    <span class="text-danger" asp-validation-for="LName" style="position: relative;left: 718px;top: -74px;"></span>
+                </div>
+            </div>
+            <div class="mb-3 col-4">
+                <label asp-for="DateOfBirth" class="form-label" style="position: relative;top: -29px;">Date Of Birth</label>
+                <input asp-for="DateOfBirth" type="text" id="SingleDataPicker" class="form-control form-control-solid" style="position: relative;top: -67px;left: 351px;" placeholder="Date Of Birth">
+                <div>
+                    <span class="text-danger" asp-validation-for="DateOfBirth" style="position: relative;top: -60px;left: 357px;"></span>
+                </div>
+            </div>
+            <div class="mb-3 col-4">
+                <label asp-for="NationalId" class="form-label" style="position: relative;top: -34px;">National Id</label>
+                <input asp-for="NationalId" type="text" class="form-control form-control-solid" style="position: relative;top: -74px;left: 352px;" placeholder="National Id">
+                <div>
+                    <span class="text-danger" asp-validation-for="NationalId" style="position: relative;top: -69px;left: 354px;"></span>
+                </div>
+            </div>
+            <div class="mb-3 col-4">
+                <label asp-for="Email" class="form-label" style="position: relative;top: -36px;">Contact</label>
+                <input asp-for="Email" type="text" class="form-control form-control-solid" style="position: relative;top: -78px; left: 353px;width: 265px;" placeholder="Email">
+                <div>
+                    <span class="text-danger" asp-validation-for="Email" style="position: relative;left: 353px;top: -74px;"></span>
+                </div>
+                
+                <input asp-for="MobileNumber" type="text" class="form-control form-control-solid" style="position: relative;top: -120px; left: 637px;width: 265px;" placeholder="Mobile Number">
+                <div>
+                    <span class="text-danger" asp-validation-for="MobileNumber" style="position: relative;left: 637px;top: -135px;"></span>
+                </div>
+                
+                <div class="mb-3 col  mr-10 mb-10">
+                    <input asp-for="HasWatsApp" class="form-check-input" type="checkbox" style="position: relative;top: -153px;left: 922px;">
+                    <label asp-for="HasWatsApp" class="form-check-label" style="position: relative;top: -153px;left: 927px;">Has WatsApp?</label>
+                    <div><span class="text-danger" asp-validation-for="HasWatsApp"></span></div>
+                </div>
+            </div>
+            <div class="mb-3 col-4">
+                <label asp-for="Governorate" class="form-label" style="position: relative;top: -123px;left: 0px;">Governorate/Area</label>
+                <div style="position: relative;top: -165px;left: 352px;">
+                    <select asp-for="GovernorateId" asp-items="GovernoretesList" class="form-select form-select-solid Js_select2" data-placeholder="Select Governorate"></select>
+                    <div>
+                        <span class="text-danger" asp-validation-for="GovernorateId" style="position: relative;top: 82px;left: 354px;"></span>
+                    </div>
+                </div>
+                <div style="position: relative;top: -209px;left: 715px;">
+                    <select asp-for="AreaId" asp-items="AreasList" class="form-select form-select-solid Js_select2" data-placeholder="Select AreaId"></select>
+                    <div><span class="text-danger" asp-validation-for="AreaId"></span></div>
+                </div>
+                
+            </div>
+            <div class="col-4">
+                <div class="mb-3 col">
+                    <label asp-for="Address" class="form-label" style="position: relative;top: -55px;">Address</label>
+                    <div style="height: 170px;position: relative;left: 352px;top: -238px;width: 709px;">
+                        <textarea asp-for="Address" id="kt_docs_tinymce_basic" type="text" class="form-control form-control-solid " placeholder="Address"></textarea>
+                    </div>
+                    <div>
+                        <span class="text-danger" asp-validation-for="Address" style="position: relative;left: 353px;top: 36px;"></span>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+
+    </div> 
+    <div class="card-footer">
+         <button form="sub" type="submit" class="btn btn-primary"><i class="bi bi-check2-all fs-3"></i>Save</button>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_validationscriptspartial" />
+}

@@ -1,0 +1,580 @@
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\libman.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.staticwebassets.runtime.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.staticwebassets.endpoints.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.exe
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.deps.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.runtimeconfig.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.pdb
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.csproj.AssemblyReference.cache
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.AssemblyInfoInputs.cache
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.AssemblyInfo.cs
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.csproj.CoreCompileInputs.cache
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.RazorAssemblyInfo.cache
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.RazorAssemblyInfo.cs
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\scopedcss\bundle\BookHaven.Web.styles.css
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\scopedcss\projectbundle\BookHaven.Web.bundle.scp.css
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.BookHaven.Web.props
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookHaven.Web.props
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookHaven.Web.props
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHave.E718FA02.Up2Date
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\refint\BookHaven.Web.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.pdb
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.genruntimeconfig.cache
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\obj\Debug\net8.0\ref\BookHaven.Web.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\UoN.ExpressiveAnnotations.NetCore.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\WhatsAppCloudApi.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.SqlServer.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\RBush.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\OpenHtmlToPdf.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\compu market\source\repos\Bookify\Bookify.Web\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\appsettings.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\libman.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.staticwebassets.runtime.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.staticwebassets.endpoints.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.exe
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.deps.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.runtimeconfig.json
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\BookHaven.Web.pdb
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\AutoMapper.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ClosedXML.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ClosedXML.Parser.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\CloudinaryDotNet.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.Core.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.NetCore.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Hangfire.SqlServer.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Humanizer.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\OpenHtmlToPdf.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\RBush.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.ClientModel.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\UoN.ExpressiveAnnotations.NetCore.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\WhatsAppCloudApi.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\X.PagedList.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bookify\Bookify.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.csproj.AssemblyReference.cache
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.AssemblyInfoInputs.cache
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.AssemblyInfo.cs
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.csproj.CoreCompileInputs.cache
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.RazorAssemblyInfo.cache
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.RazorAssemblyInfo.cs
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.sourcelink.json
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\scopedcss\bundle\BookHaven.Web.styles.css
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\scopedcss\projectbundle\BookHaven.Web.bundle.scp.css
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.BookHaven.Web.props
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookHaven.Web.props
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookHaven.Web.props
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHave.E718FA02.Up2Date
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.dll
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\refint\BookHaven.Web.dll
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.pdb
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\BookHaven.Web.genruntimeconfig.cache
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\ref\BookHaven.Web.dll
+E:\Bookify\Bookify.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\appsettings.Development.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\appsettings.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\libman.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.staticwebassets.endpoints.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.staticwebassets.runtime.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.exe
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.deps.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.runtimeconfig.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Web.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\AutoMapper.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Azure.Core.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ClosedXML.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ClosedXML.Parser.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\CloudinaryDotNet.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Hangfire.Core.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Hangfire.NetCore.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Hangfire.SqlServer.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Humanizer.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\OpenHtmlToPdf.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\RBush.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.ClientModel.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\UoN.ExpressiveAnnotations.NetCore.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\WhatsAppCloudApi.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\X.PagedList.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.csproj.AssemblyReference.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.AssemblyInfoInputs.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.AssemblyInfo.cs
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.csproj.CoreCompileInputs.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.RazorAssemblyInfo.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.RazorAssemblyInfo.cs
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.sourcelink.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\scopedcss\bundle\BookHaven.Web.styles.css
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\scopedcss\projectbundle\BookHaven.Web.bundle.scp.css
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.BookHaven.Web.props
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookHaven.Web.props
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookHaven.Web.props
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHave.E718FA02.Up2Date
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\refint\BookHaven.Web.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\BookHaven.Web.genruntimeconfig.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\obj\Debug\net8.0\ref\BookHaven.Web.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Application.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Domain.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Infrastructure.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Application.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Infrastructure.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Web\bin\Debug\net8.0\BookHaven.Domain.pdb

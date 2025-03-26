@@ -1,0 +1,26 @@
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.AssemblyInfoInputs.cache
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.AssemblyInfo.cs
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.csproj.CoreCompileInputs.cache
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.sourcelink.json
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.csproj.AssemblyReference.cache
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\bin\Debug\net8.0\BookHaven.Domain.deps.json
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\bin\Debug\net8.0\BookHaven.Domain.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\bin\Debug\net8.0\BookHaven.Domain.pdb
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\refint\BookHaven.Domain.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.pdb
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Domain\obj\Debug\net8.0\ref\BookHaven.Domain.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\bin\Debug\net8.0\BookHaven.Domain.deps.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\bin\Debug\net8.0\BookHaven.Domain.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\bin\Debug\net8.0\BookHaven.Domain.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.csproj.AssemblyReference.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.AssemblyInfoInputs.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.AssemblyInfo.cs
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.csproj.CoreCompileInputs.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.sourcelink.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\refint\BookHaven.Domain.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\BookHaven.Domain.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Domain\obj\Debug\net8.0\ref\BookHaven.Domain.dll

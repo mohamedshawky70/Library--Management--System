@@ -1,0 +1,152 @@
+﻿@model IEnumerable<UserVM>
+@{
+    ViewData["Title"] = "Users";
+}
+
+<div class="card card-flush shadow-sm">
+
+    <div class="card-header">
+        <h3 class="card-title">
+            <span class="menu-title">
+                <i class="bi bi-people-fill fs-2 text-primary"></i>
+                <span style="padding-left: 10px;">Users</span>
+            </span>
+
+        </h3>
+        <div class="card-toolbar">
+            <a class="btn btn-sm btn-success fs-5" asp-controller="Users" asp-action="Create">
+                <i class="bi bi-plus-square fs-6"></i>
+                Add
+            </a>
+        </div>
+    </div>
+    <partial name="ExportSearchDataTable" />
+    <div class="card-body py-5">
+        @if (Model.Any())
+        {
+            <div class="table-responsive">
+                <table id="kt_datatable_example" class="table table-striped">
+                    <thead>
+                        <tr class="fw-semibold fs-6 text-gray-800 border-bottom-2 border-gray-200">
+                            <th>Full Name</th>
+                            <th>User Name</th>
+                            <th>Email</th>
+                            <th>Status</th>
+                            <th>Created On</th>
+                            <th>Last Updated On</th>
+                            <th>Action</th> @*  Don'tExport *@
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Model)
+                        {
+
+                            <tr>
+                                <td>@user.FullName</td>
+                                <td>@user.UserName</td>
+                                <td>@user.Email</td>
+                                <td>
+                                    <span class="badge text-bg-@(user.IsDeleted?"danger":"success")  ColorStatus">
+                                        @(user.IsDeleted ? "Deleted" : "Available")
+                                    </span>
+                                </td>
+                                <td>@user.CreatedOn</td>
+                                <td class="LastUpdate" id="@user.Id">@user.LastUpdatedOn</td> 
+                                <div class="w-30">
+
+                                <td>
+                                     <button type="button" class="btn btn-sm btn-icon btn-color-primary btn-active-light-primary" data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end">
+                                        <!--begin::Svg Icon | path: icons/duotune/general/gen024.svg-->
+                                        <span class="svg-icon svg-icon-2">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24">
+                                                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                                    <rect x="5" y="5" width="5" height="5" rx="1" fill="currentColor"></rect>
+                                                    <rect x="14" y="5" width="5" height="5" rx="1" fill="currentColor" opacity="0.3"></rect>
+                                                    <rect x="5" y="14" width="5" height="5" rx="1" fill="currentColor" opacity="0.3"></rect>
+                                                    <rect x="14" y="14" width="5" height="5" rx="1" fill="currentColor" opacity="0.3"></rect>
+                                                </g>
+                                            </svg>
+                                        </span>
+                                        <!--end::Svg Icon-->
+                                    </button>
+ 
+                                     <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold w-200px py-3" data-kt-menu="true" style="z-index: 107;">
+
+                                        <!--begin::Menu item-->
+                                        <div class="menu-item px-3  Edit_Status">
+                                            <a asp-controller="Users" asp-action="Edite" asp-route-id="@user.Id" class="menu-link px-3">
+                                                <i class="bi bi-pencil-square fs-4 text-warning"></i>
+                                                Edite
+                                            </a>
+                                        </div>
+                                        <div class="menu-item px-3  Edit_Status">
+                                            <a asp-controller="Users" asp-action="ResetPassword" asp-route-id="@user.Id" class="menu-link px-3">
+                                                <i class="bi bi-arrow-repeat text-info fs-3"></i>
+                                                Reset Password
+                                            </a>
+                                        </div>
+                                        <!--end::Menu item-->
+                                        <!--begin::Menu item-->
+                                        <div class="menu-item px-3 my-1 Edit_Status">
+                                            <a href="#" class="menu-link px-3 Js-StatusToggle" data-url="/Users/ToggleStatus/@user.Id"><i class="bi bi-trash fs-3 text-danger"></i>Toggle Status</a>
+                                        </div>
+                                        @if(user.LockedOutEnd>DateTimeOffset.Now)
+                                        {
+                                            <div class="menu-item px-3 Edit_Status ">
+                                                <a  data-url="/Users/UnLock/@user.Id" class="menu-link px-3 UnLock">
+                                                    <i class="bi bi-unlock-fill fs-3 text-success"></i>
+                                                    UnLcok
+                                                </a>
+                                            </div>
+                                        }
+                                        <!--end::Menu item-->
+                                    </div>
+ 
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <!--begin::Alert-->
+            <div class="alert alert-warning d-flex align-items-center p-5">
+                <!--begin::Icon-->
+                <i class="ki-duotone ki-shield-tick fs-2hx text-success me-4"><span class="path1"></span><span class="path2"></span></i>
+                <!--end::Icon-->
+                <!--begin::Wrapper-->
+                <div class="d-flex flex-column">
+                    <!--begin::Title-->
+                    <h4 class="mb-1 text-dark"><i style="padding-right:10px" class="bi bi-exclamation-circle fs-3 text-warning"></i>No Users founded!</h4>
+                    <!--end::Title-->
+                </div>
+                <!--end::Wrapper-->
+            </div>
+            <!--end::Alert-->
+        }
+    </div>
+
+</div>
+
+@* Change in db ,change color ,change text , change time update *@
+@section scripts {
+    <script src="~/js/indexcategory.js" asp-append-version="true"></script> @* //appent new version when modify *@
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/site.js"></script>
+}
+@* render data table when iam her only (Index Category)  *@
+@section DataTableCss {
+    <link href="~/mecatronic/css/datatables.bundle.css" rel="stylesheet" />
+
+}
+@section DataTableJs {
+    <script src="~/mecatronic/js/datatables.bundle.js"></script>
+
+
+}
+
+<link href="~/css/centerpagination.css" rel="stylesheet" />
+<link href="~/css/site.css" rel="stylesheet" />

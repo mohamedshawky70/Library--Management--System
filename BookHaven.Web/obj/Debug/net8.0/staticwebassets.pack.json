@@ -1,0 +1,2265 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookHaven.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookHaven.Web.o36c1oez7p.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\008afbd9-bada-4b85-8d6d-59828cf75ca9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\008afbd9-bada-4b85-8d6d-59828cf75ca9.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\169fca18-a8ee-4a67-a920-301b1f06ca57.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\169fca18-a8ee-4a67-a920-301b1f06ca57.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\27829bc0-c9ce-4da5-8874-90458d564324.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\27829bc0-c9ce-4da5-8874-90458d564324.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\37ef0a35-7a60-4e9b-aa39-7a0f02598b6c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\37ef0a35-7a60-4e9b-aa39-7a0f02598b6c.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\39dbeb1d-f3b1-484c-b16d-e917cfbe60ad.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\39dbeb1d-f3b1-484c-b16d-e917cfbe60ad.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\5afaab83-7861-45d2-9f6f-ab4f74a635d3.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\5afaab83-7861-45d2-9f6f-ab4f74a635d3.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\7a97076f-4bcc-48e7-bc2f-e8f02c0c835f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\7a97076f-4bcc-48e7-bc2f-e8f02c0c835f.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\7cc7e031-51a0-451e-9af3-ea9d6f6fddaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\7cc7e031-51a0-451e-9af3-ea9d6f6fddaf.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\Dashboard.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\Dashboard.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\a43faf10-1558-45ce-9464-b9f0cc7d522f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\a43faf10-1558-45ce-9464-b9f0cc7d522f.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\c821a573-2df4-4189-910b-94f1a21d2e4c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\c821a573-2df4-4189-910b-94f1a21d2e4c.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\c8edee2b-7e49-451c-9f17-96b6c492f54f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\c8edee2b-7e49-451c-9f17-96b6c492f54f.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\dashboard1.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\dashboard1.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\default.png",
+      "PackagePath": "staticwebassets\\Images\\Book\\default.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\f23a4e6b-fa0c-4c9b-84e6-106dac9c195d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\f23a4e6b-fa0c-4c9b-84e6-106dac9c195d.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\f3a59ac7-f953-48d1-a03e-57b84931ecd9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\f3a59ac7-f953-48d1-a03e-57b84931ecd9.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\f7cd1af0-19a1-43b5-8b21-48568130475c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\f7cd1af0-19a1-43b5-8b21-48568130475c.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Book\\image-placeholder.jpg",
+      "PackagePath": "staticwebassets\\Images\\Book\\image-placeholder.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\043b86a9-5e87-4680-9507-d4742d21ed0e.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\043b86a9-5e87-4680-9507-d4742d21ed0e.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\065c3431-9680-459e-b793-75e9b918682d.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\065c3431-9680-459e-b793-75e9b918682d.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\06621ae0-6222-4f1d-99a0-1c43db6c6bc8.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\06621ae0-6222-4f1d-99a0-1c43db6c6bc8.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\092b46d2-ba73-4533-9098-0b9ab0616642.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\092b46d2-ba73-4533-9098-0b9ab0616642.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\2c86b50b-ee7b-41a4-86bd-b77ebce370c1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\2c86b50b-ee7b-41a4-86bd-b77ebce370c1.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\2dafeb30-be0b-443f-ae8d-857ad75fb543.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\2dafeb30-be0b-443f-ae8d-857ad75fb543.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\385bc539-5c65-4033-a18e-bd75860f1d2d.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\385bc539-5c65-4033-a18e-bd75860f1d2d.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\3c8d038e-394b-448a-809a-dfbb604dd9cc.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\3c8d038e-394b-448a-809a-dfbb604dd9cc.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\3d602b19-872b-42ce-b779-61ea05031434.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\3d602b19-872b-42ce-b779-61ea05031434.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\4193adb9-0af5-4bbc-8057-54d2e841577b.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\4193adb9-0af5-4bbc-8057-54d2e841577b.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\4219fe69-eb22-448c-988a-57120657adac.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\4219fe69-eb22-448c-988a-57120657adac.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\492cc2e5-0eaf-4d9c-8294-f1308ac9b274.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\492cc2e5-0eaf-4d9c-8294-f1308ac9b274.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\4f72ab04-d0a4-4901-9b4a-c5a5f0e1f967.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\4f72ab04-d0a4-4901-9b4a-c5a5f0e1f967.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\533ad62a-ea04-4d04-a93e-61e4aa1bce5c.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\533ad62a-ea04-4d04-a93e-61e4aa1bce5c.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\53ce5af4-5275-4249-9ffa-b66665a14022.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\53ce5af4-5275-4249-9ffa-b66665a14022.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\7393e2eb-9992-4852-9721-a2d2c0e0617a.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\7393e2eb-9992-4852-9721-a2d2c0e0617a.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\772e59cd-9fcf-4051-9b9c-04ff63d2ad4a.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\772e59cd-9fcf-4051-9b9c-04ff63d2ad4a.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\7cf5c667-1015-4b49-9b3d-5c7e5be6cc78.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\7cf5c667-1015-4b49-9b3d-5c7e5be6cc78.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\81a1a820-c863-4ec1-a29c-1f3a0e90c70a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\81a1a820-c863-4ec1-a29c-1f3a0e90c70a.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\83a0289c-3a04-45a6-9a3f-699895defb99.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\83a0289c-3a04-45a6-9a3f-699895defb99.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\871d9b16-b585-42f8-857e-a1902272a3a2.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\871d9b16-b585-42f8-857e-a1902272a3a2.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\8b9d2117-32b6-488f-96d0-b11d93a0978d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\8b9d2117-32b6-488f-96d0-b11d93a0978d.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\8dd16c98-fa5c-4a89-befa-ed95a40ca2d3.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\8dd16c98-fa5c-4a89-befa-ed95a40ca2d3.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\8e2463a0-e507-4a2d-af7b-dde99c22e058.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\8e2463a0-e507-4a2d-af7b-dde99c22e058.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\93b150dc-e613-477b-bdc1-c4c76458c705.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\93b150dc-e613-477b-bdc1-c4c76458c705.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\9c9cf8d8-8e60-463a-9f35-33ac6b120d8b.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\9c9cf8d8-8e60-463a-9f35-33ac6b120d8b.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\9cc9d8a5-93a8-40b6-9fef-2db29c89621f.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\9cc9d8a5-93a8-40b6-9fef-2db29c89621f.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\Star.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\Star.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\add.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\add.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\b0f9e768-1e41-4a1d-be29-71ee56944944.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\b0f9e768-1e41-4a1d-be29-71ee56944944.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\b40cd93a-6dbf-4470-b0d0-2e2b90292907.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\b40cd93a-6dbf-4470-b0d0-2e2b90292907.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\b4a75bf6-bd1f-4037-8950-e6c91f8f6544.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\b4a75bf6-bd1f-4037-8950-e6c91f8f6544.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\b4d3a1a2-4587-48b2-a530-50591d7a2b3f.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\b4d3a1a2-4587-48b2-a530-50591d7a2b3f.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\b7ba1a14-f0de-4e43-a82f-4042135f9046.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\b7ba1a14-f0de-4e43-a82f-4042135f9046.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\book.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\book.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\c727112d-c1d4-4edf-86d5-391c684a958a.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\c727112d-c1d4-4edf-86d5-391c684a958a.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\c84db32d-f3e9-4305-896c-2cbde035c180.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\c84db32d-f3e9-4305-896c-2cbde035c180.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\cancel.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\cancel.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\ccacd2a9-ad73-4d2f-ba20-c46a4631c63a.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\ccacd2a9-ad73-4d2f-ba20-c46a4631c63a.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\cd44d565-9797-4fa2-aaf3-42d14be4e12a.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\cd44d565-9797-4fa2-aaf3-42d14be4e12a.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\check.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\check.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\clock.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\clock.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\d148f310-5316-4444-b7aa-11d11acec1d6.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\d148f310-5316-4444-b7aa-11d11acec1d6.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\d3a48ea7-ba27-434f-8fa6-8008e07d73ae.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\d3a48ea7-ba27-434f-8fa6-8008e07d73ae.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\d54f4e03-b427-4e94-ae5d-052d2254908a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\d54f4e03-b427-4e94-ae5d-052d2254908a.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\default.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\default.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\df3f64ac-55f2-4e8a-a9d9-ca3f0e89617c.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\df3f64ac-55f2-4e8a-a9d9-ca3f0e89617c.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\e00784f7-1671-4b70-aeee-0e8362dd6197.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\e00784f7-1671-4b70-aeee-0e8362dd6197.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\e1290e7a-dca1-4a5b-92b0-5f50dcd62bfc.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\e1290e7a-dca1-4a5b-92b0-5f50dcd62bfc.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\e21e070d-01cc-4a03-8a98-b1bfe4a9cbc2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\e21e070d-01cc-4a03-8a98-b1bfe4a9cbc2.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\e29d92ec-8ff1-4fbe-b63e-5525beb45b91.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\e29d92ec-8ff1-4fbe-b63e-5525beb45b91.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\e53c23b6-ea1c-4d3a-ac24-7e6b6533375a.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\e53c23b6-ea1c-4d3a-ac24-7e6b6533375a.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\f0599c49-985f-4bda-8787-bf0276264aad.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\f0599c49-985f-4bda-8787-bf0276264aad.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\fbe6bb70-9796-41fc-94c1-ad336880c53c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\fbe6bb70-9796-41fc-94c1-ad336880c53c.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\loupe.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\loupe.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\reading.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\reading.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\reading1.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\reading1.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\Subscriper\\refresh-button_3588513.png",
+      "PackagePath": "staticwebassets\\Images\\Subscriper\\refresh-button_3588513.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\User\\b25840bf-caf2-450b-b444-e393a5b51690.png",
+      "PackagePath": "staticwebassets\\Images\\User\\b25840bf-caf2-450b-b444-e393a5b51690.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\User\\default.png",
+      "PackagePath": "staticwebassets\\Images\\User\\default.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\User\\e724511c-8b27-40b4-bb63-0a64a30702ad.png",
+      "PackagePath": "staticwebassets\\Images\\User\\e724511c-8b27-40b4-bb63-0a64a30702ad.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Images\\User\\fc776301-5de0-4abc-a794-40df990b3a95.png",
+      "PackagePath": "staticwebassets\\Images\\User\\fc776301-5de0-4abc-a794-40df990b3a95.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\401 Error Unauthorized-pana.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\401 Error Unauthorized-pana.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Aatar.jpg",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Aatar.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\BooHaven.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\BooHaven.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Confirmed-bro.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Confirmed-bro.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Email campaign-amico.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Email campaign-amico.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Email campaign-rafiki.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Email campaign-rafiki.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Home.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Home.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Login.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Login.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Logo.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Logo.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Logo1.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Logo1.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Reset password-bro.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Reset password-bro.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Reset password-pana.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Reset password-pana.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Version control-bro.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Version control-bro.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\Welcome-bro.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\Welcome-bro.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\add-friend.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\add-friend.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\add1.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\add1.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\addBook.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\addBook.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\bar-chart.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\bar-chart.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\bar-chart1.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\bar-chart1.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\confirm (2).jpg",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\confirm (2).jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\confirm.jpg",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\confirm.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\confirm.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\confirm.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\dashboard2.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\dashboard2.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\depositphotos_11604208-stock-photo-security-concept-lock-on-digital.jpg",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\depositphotos_11604208-stock-photo-security-concept-lock-on-digital.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\editing.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\editing.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\modern-technology-email-background_693425-10221.jpg",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\modern-technology-email-background_693425-10221.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\opened-book-with-a-magnifier.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\opened-book-with-a-magnifier.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\opened-book-with-a-magnifier1.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\opened-book-with-a-magnifier1.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\page-bg.jpg",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\page-bg.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\statistics.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\statistics.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\telescope.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\telescope.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\Img\\writer.png",
+      "PackagePath": "staticwebassets\\Mecatronic\\Img\\writer.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\datatables.bundle.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\datatables.bundle.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\@fortawesome\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\@fortawesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\bootstrap-icons\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.eot",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.eot"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.html",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.html"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.scss",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.scss"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.svg",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.svg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.woff",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.woff"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\fonticon\\fonticon.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\fonticon\\fonticon.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.eot"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.svg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.woff"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.eot"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.svg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.woff"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.eot"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.svg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.woff"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\fonts\\line-awesome\\la-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\plugins.bundle.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\plugins.bundle.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\plugins.bundle.rtl.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\plugins.bundle.rtl.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\style.bundle.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\style.bundle.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\css\\style.bundle.rtl.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\css\\style.bundle.rtl.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\js\\datatables.bundle.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\js\\datatables.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\js\\plugins.bundle.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\js\\plugins.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\js\\scripts.bundle.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\js\\scripts.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\datatables\\datatables.bundle.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\datatables\\datatables.bundle.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\datatables\\datatables.bundle.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\datatables\\datatables.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\datatables\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\datatables\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\fslightbox\\fslightbox.bundle.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\fslightbox\\fslightbox.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.mobile.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Mecatronic\\plugins\\tinymce\\tinymce.bundle.js",
+      "PackagePath": "staticwebassets\\Mecatronic\\plugins\\tinymce\\tinymce.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Templates\\Email.html",
+      "PackagePath": "staticwebassets\\Templates\\Email.html"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Templates\\Notification.html",
+      "PackagePath": "staticwebassets\\Templates\\Notification.html"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Templates\\PDFBookReport.html",
+      "PackagePath": "staticwebassets\\Templates\\PDFBookReport.html"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Templates\\PDFDelayReport.html",
+      "PackagePath": "staticwebassets\\Templates\\PDFDelayReport.html"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\Templates\\PDFRentalReport.html",
+      "PackagePath": "staticwebassets\\Templates\\PDFRentalReport.html"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\bootbox.js\\bootbox.js",
+      "PackagePath": "staticwebassets\\bootbox.js\\bootbox.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\bootbox.js\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\bootbox.js\\bootbox.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\css\\CenterPagination.css",
+      "PackagePath": "staticwebassets\\css\\CenterPagination.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\css\\Lockut.css",
+      "PackagePath": "staticwebassets\\css\\Lockut.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\css\\examples.css",
+      "PackagePath": "staticwebassets\\css\\examples.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.bootstrap.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.foundation.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.foundation.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.foundation.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.jqueryui.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.material.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.material.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.material.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.material.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.semanticui.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.uikit.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.uikit.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\datatables.uikit.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\datatables.uikit.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\jquery.datatables.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\jquery.datatables.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\jquery.datatables.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\jquery.datatables.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\jquery.datatables_themeroller.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\jquery.datatables_themeroller.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\css\\jquery.datatables_themeroller.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\jquery.datatables_themeroller.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\images\\confirm.jpg",
+      "PackagePath": "staticwebassets\\datatables\\images\\confirm.jpg"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.bootstrap.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.datatables.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.datatables.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.datatables.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.datatables.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.foundation.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.foundation.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.foundation.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.jqueryui.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.material.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.material.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.material.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.material.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.semanticui.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.uikit.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.uikit.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\datatables.uikit.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\datatables.uikit.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\jquery.datatables.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\jquery.datatables.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\datatables\\js\\jquery.datatables.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\jquery.datatables.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\DashboardCharts.js",
+      "PackagePath": "staticwebassets\\js\\DashboardCharts.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\IndexCategory.js",
+      "PackagePath": "staticwebassets\\js\\IndexCategory.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\Search.js",
+      "PackagePath": "staticwebassets\\js\\Search.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.bootstrap.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.foundation.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.foundation.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.foundation.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.jqueryui.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.material.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.material.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.material.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.material.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.semanticui.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.uikit.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.uikit.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\datatables.uikit.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\datatables.uikit.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\jquery.datatables.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\jquery.datatables.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\jquery.datatables.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\jquery.datatables.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\jquery.datatables_themeroller.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\jquery.datatables_themeroller.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\css\\jquery.datatables_themeroller.min.css",
+      "PackagePath": "staticwebassets\\js\\datatables\\css\\jquery.datatables_themeroller.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\js\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\js\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\js\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\js\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\js\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.datatables.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.datatables.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.datatables.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.datatables.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.foundation.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.foundation.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.foundation.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.jqueryui.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.material.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.material.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.material.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.material.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.semanticui.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.uikit.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.uikit.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\datatables.uikit.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\datatables.uikit.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\jquery.datatables.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\jquery.datatables.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\datatables\\js\\jquery.datatables.min.js",
+      "PackagePath": "staticwebassets\\js\\datatables\\js\\jquery.datatables.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\expressive-annotations-validate\\expressive.annotations.validate.js",
+      "PackagePath": "staticwebassets\\js\\expressive-annotations-validate\\expressive.annotations.validate.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\expressive-annotations-validate\\expressive.annotations.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\expressive-annotations-validate\\expressive.annotations.validate.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\validation-styling.js",
+      "PackagePath": "staticwebassets\\js\\validation-styling.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\dist\\index.d.ts",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\dist\\index.d.ts"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\dist\\index.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\dist\\index.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\dist\\index.js.map",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\dist\\index.js.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\dist\\vue-sweetalert.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\dist\\vue-sweetalert.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\dist\\vue-sweetalert.mjs",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\dist\\vue-sweetalert.mjs"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\dist\\vue-sweetalert.umd.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\dist\\vue-sweetalert.umd.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\license",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\nuxt\\index.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\nuxt\\index.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\nuxt\\index.mjs",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\nuxt\\index.mjs"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\nuxt\\no-css.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\nuxt\\no-css.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\nuxt\\no-css.mjs",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\nuxt\\no-css.mjs"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\nuxt\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\nuxt\\plugin.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\nuxt\\plugin.no-css.js",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\nuxt\\plugin.no-css.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\package-lock.json",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\package-lock.json"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\package.json",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\package.json"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\readme.md",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\readme.md"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\src\\index.ts",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\src\\index.ts"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\js\\vue-sweetalert2\\src\\shims-vue.d.ts",
+      "PackagePath": "staticwebassets\\js\\vue-sweetalert2\\src\\shims-vue.d.ts"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\expressive-annotations-validate\\expressive.annotations.validate.js",
+      "PackagePath": "staticwebassets\\lib\\expressive-annotations-validate\\expressive.annotations.validate.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\expressive-annotations-validate\\expressive.annotations.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\expressive-annotations-validate\\expressive.annotations.validate.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\fslightbox\\index.js",
+      "PackagePath": "staticwebassets\\lib\\fslightbox\\index.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\fslightbox\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\fslightbox\\index.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\contrib\\other-validations.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\contrib\\other-validations.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\contrib\\other-validations.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\contrib\\other-validations.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\jquery-1.8.2.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\jquery-1.8.2.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\jquery.validationengine.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\jquery.validationengine.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\jquery.validationengine.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\jquery.validationengine.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-cz.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-cz.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-cz.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-cz.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-da.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-da.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-da.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-de.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-de.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-en.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-en.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-en.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-en.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-es.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-es.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-es.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-et.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-et.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-et.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fa.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fa.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fi.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fi.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fr.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-fr.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hr.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hr.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hu.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-hu.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-it.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-it.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ja.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ja.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-nl.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-nl.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-no.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-no.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-no.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pl.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pl.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt_br.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt_br.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt_br.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-pt_br.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ro.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ro.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ru.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-ru.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-se.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-se.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-se.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-se.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-tr.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-tr.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-vi.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-vi.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_cn.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_cn.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_cn.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_cn.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_tw.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_tw.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_tw.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\languages\\jquery.validationengine-zh_tw.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\validationengine.jquery.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\validationengine.jquery.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-engine\\validationengine.jquery.min.css",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-engine\\validationengine.jquery.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\license.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\license.md"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\js\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\js\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.mobile.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.mobile.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\tinymce\\tinymce.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.bundle.js"
+    },
+    {
+      "Id": "E:\\Clean_BookHaven\\BookHaven\\BookHaven.Web\\wwwroot\\lib\\typeahead.js\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\typeahead.js\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookHaven.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookHaven.Web.props",
+      "PackagePath": "build\\BookHaven.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookHaven.Web.props",
+      "PackagePath": "buildMultiTargeting\\BookHaven.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookHaven.Web.props",
+      "PackagePath": "buildTransitive\\BookHaven.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

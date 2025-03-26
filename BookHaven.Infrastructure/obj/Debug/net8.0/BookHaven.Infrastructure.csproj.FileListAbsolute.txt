@@ -1,0 +1,36 @@
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.AssemblyInfo.cs
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.sourcelink.json
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Infrastructure.deps.json
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Infrastructure.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Infrastructure.pdb
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Application.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Domain.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Application.pdb
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Domain.pdb
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHave.D49BC1DC.Up2Date
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\refint\BookHaven.Infrastructure.dll
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.pdb
+C:\Users\compu market\source\repos\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\ref\BookHaven.Infrastructure.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Infrastructure.deps.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Infrastructure.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Infrastructure.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Application.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Domain.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Application.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\bin\Debug\net8.0\BookHaven.Domain.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.csproj.AssemblyReference.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.AssemblyInfoInputs.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.AssemblyInfo.cs
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.sourcelink.json
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHave.D49BC1DC.Up2Date
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\refint\BookHaven.Infrastructure.dll
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\BookHaven.Infrastructure.pdb
+E:\Clean_BookHaven\BookHaven\BookHaven.Infrastructure\obj\Debug\net8.0\ref\BookHaven.Infrastructure.dll
